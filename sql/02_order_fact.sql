@@ -68,8 +68,10 @@ SELECT
     i.shipping_limit_date IS NOT NULL
         AND o.order_delivered_carrier_date > i.shipping_limit_date AS shipped_late,
 
-    -- target definition (spec section 4): bad = score <= 2, only where reviewed
-    CASE WHEN r.review_score <= 2 THEN 1 ELSE 0 END AS bad_review   -- NULL propagates where no review
+    -- target definition (spec section 4): bad = score <= 2, NULL where no review
+    CASE WHEN r.review_score IS NULL THEN NULL
+         WHEN r.review_score <= 2 THEN 1
+         ELSE 0 END AS bad_review
 
 FROM raw.orders o
 JOIN stg_customers c ON o.customer_id = c.customer_id

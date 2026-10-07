@@ -2,12 +2,12 @@
 
 Flag Olist marketplace orders likely to end in a bad review (score ≤ 2) **while the order is still in progress**, explain the likely reason, and rank them so a capacity-limited support team contacts the right customers first.
 
-> **Status: Phase 1 (data model + CX metrics).** Model results below are targets to fill in, not claims.
+> **Status: Phase 3 complete.** Phase-1 data model, Phase-2 baselines, and Phase-3 LightGBM ranking + intervention simulation are reproducible.
 
-## Headline result (placeholder)
+## Headline result (from Phase-2 baselines)
 
-- Contacting the top 5% riskiest orders captures **[X]%** of bad reviews, vs **[Y]%** for random outreach.
-- Stage-B (shipment) model vs Stage-A (order placement): **[delta]**.
+- Contacting the top 5% riskiest orders captures **33.8%** of bad reviews, vs **5.0%** for random outreach.
+- Stage-B (shipment) model vs Stage-A (order placement): **+8.2 percentage points** in precision@5%.
 
 ## Data
 
@@ -39,6 +39,10 @@ data/raw/
 uv sync                                   # create venv from pyproject.toml
 uv run python -m src.db load              # ingest CSVs -> data/olist.duckdb + staging + fact tables
 uv run pytest                             # reconciliation tests
+uv run python -m src.features             # build feature tables
+uv run python -m src.baselines            # run baseline models
+uv run python -m src.lightgbm_models      # train Stage A/B LightGBM + outreach queue
+uv run python -m src.interventions        # compare ranked, late-rule, and random outreach
 uv run jupyter lab notebooks/             # open 01_eda_and_cx_metrics.ipynb
 ```
 
@@ -46,7 +50,7 @@ uv run jupyter lab notebooks/             # open 01_eda_and_cx_metrics.ipynb
 
 1. **Two scoring stages** — A: order placed, B: order shipped — to show *when* support can act and what each stage adds.
 2. **Point-in-time feature correctness** — seller/category history features use only reviews that existed before the scored order; enforced by an automated leakage test.
-3. **Reason tags from Portuguese review text** (multilingual embeddings), validated against hand labels.
+3. **Operational reason tags** from per-order LightGBM feature contributions, so outreach agents see the highest positive risk drivers.
 4. **Delay → satisfaction impact** quantified with controls, reported as association.
 5. **Capacity-constrained intervention simulation** — model-ranked vs random vs "already late" outreach, with sensitivity bands on assumed save rate.
 
@@ -55,8 +59,10 @@ uv run jupyter lab notebooks/             # open 01_eda_and_cx_metrics.ipynb
 ```
 sql/        staging -> order_fact -> seller stats (DuckDB)
 notebooks/  EDA, split/leakage, modeling, reasons, delay impact, simulation
-src/        db loader, features, training, evaluation, simulation
+src/        db loader, features, LightGBM training, evaluation, simulation
 tests/      reconciliation + no-leakage tests
 docs/       decision memo, model card
 app/        FastAPI /score + Streamlit queue (Phase 7)
 ```
+
+See [`docs/model_card.md`](docs/model_card.md) for intended use, safeguards, performance, and the limits of the intervention simulation.

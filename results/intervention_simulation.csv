@@ -1,0 +1,10 @@
+strategy,capacity,contacts,save_rate_assumption,bad_reviews_contacted,expected_bad_reviews_averted,expected_bad_reviews_remaining
+lightgbm-ranked,0.05,622,0.1,246,24.6,1171.4
+lightgbm-ranked,0.05,622,0.2,246,49.2,1146.8
+lightgbm-ranked,0.05,622,0.3,246,73.8,1122.2
+already-late,0.05,622,0.1,149,14.9,1181.1
+already-late,0.05,622,0.2,149,29.8,1166.2
+already-late,0.05,622,0.3,149,44.699999999999996,1151.3
+random,0.05,622,0.1,70,7.0,1189.0
+random,0.05,622,0.2,70,14.0,1182.0
+random,0.05,622,0.3,70,21.0,1175.0

@@ -1,0 +1,623 @@
+order_id,purchase_ts,customer_state,seller_state,risk_score,reason_tags
+2dd5f6a66c1d82ee0b8c864ddf9833f2,2018-08-02 12:07:36,SP,SC,0.812267336267369,handoff / delivery promise risk; seller track-record risk; category track-record risk
+734e66350ff1d845ab707409554c76c4,2018-08-03 17:05:23,RS,SP,0.8120748785107205,handoff / delivery promise risk; order value / freight risk; category track-record risk
+6d0940a8f5fba47562bb14cd97dfd6da,2018-08-10 00:17:59,RS,SP,0.8055882495627108,handoff / delivery promise risk; order value / freight risk; product / basket complexity
+6a8074244958b34abe3e949b948bb9f9,2018-07-22 20:00:05,RJ,PR,0.8026872000647114,handoff / delivery promise risk; seller track-record risk; category track-record risk
+14def5e6b6021ae117c181c039258033,2018-07-25 01:25:29,SP,SP,0.7993430536033069,handoff / delivery promise risk; seller track-record risk; category track-record risk
+3decc053f76f6898aefed9c29e26e2b7,2018-08-05 14:02:28,SP,SC,0.7954370422657624,handoff / delivery promise risk; seller track-record risk; category track-record risk
+a98f79318168a3b20eca9c4530909f49,2018-07-11 21:17:27,SP,SP,0.7896921045839385,handoff / delivery promise risk; order value / freight risk; seller track-record risk
+3e43e4dedffaf5c15e579786d0b5317f,2018-08-03 15:37:56,DF,SP,0.7829314097408849,handoff / delivery promise risk; order value / freight risk; category track-record risk
+f46b842d9b4dfd29acf5eec998837ede,2018-07-12 22:21:00,PI,MA,0.7702453686039606,handoff / delivery promise risk; category track-record risk; seller track-record risk
+4cdae837c07c681dc80adebc6ee90b99,2018-07-17 23:46:08,SP,SP,0.7678269608602476,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+4e8df4f2ecd486fc4854a0c424593079,2018-07-22 20:57:22,SP,SP,0.7626523015327844,handoff / delivery promise risk; order value / freight risk; category track-record risk
+3b43a1faa9745dfcd8ef87937f4cab08,2018-07-11 21:26:10,SP,MA,0.7435140985036661,handoff / delivery promise risk; long-distance delivery risk; seller track-record risk
+0d4677b0223bd9ec9dc8182d6afa70aa,2018-07-13 15:49:42,SP,MA,0.72669918733319,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+4505acb3759da6b9c7d79a80d29ab3bb,2018-08-06 14:32:27,SP,SP,0.7251797274297823,handoff / delivery promise risk; seller track-record risk; category track-record risk
+628111ec0fcace16f3112336b1138aef,2018-07-14 21:35:38,SP,MA,0.7184932028474927,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+25348d7abfa3893731e3836aab2f6a6c,2018-07-09 15:40:27,SP,SP,0.7183546022806394,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+9254ea56fb8aecea0b411b6a605e0ebb,2018-07-19 16:56:49,SP,SP,0.7117366114743812,handoff / delivery promise risk; order value / freight risk; seller track-record risk
+d6a55340021ebcaf3b321d5a34c6c31e,2018-07-09 10:03:08,DF,SP,0.7081372816802062,handoff / delivery promise risk; category track-record risk; order value / freight risk
+56f1d06ce4c0cf8a60c9d1af768f39de,2018-07-17 15:21:10,DF,SP,0.7076101984191316,handoff / delivery promise risk; category track-record risk; order value / freight risk
+cae550bd1bf7bfba357a10319a0fb4be,2018-07-11 15:45:51,MA,MA,0.701800693492092,handoff / delivery promise risk; seller track-record risk; category track-record risk
+3816ba21917f2a17a58a38a108985d0c,2018-07-14 19:21:22,SP,MA,0.6905962437659238,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+2efe3d3b0ddc295d2ce1c43f021078cb,2018-07-29 16:19:56,SP,SP,0.6708149965543353,handoff / delivery promise risk; seller track-record risk; product / basket complexity
+67a41e5f40c8ee15e8d00b64b363dfd0,2018-07-09 14:29:40,SP,SP,0.6628714309754613,handoff / delivery promise risk; category track-record risk; order value / freight risk
+633911754e7d587f10d189b10572c0ae,2018-07-12 01:23:38,SP,MA,0.6603983996287027,handoff / delivery promise risk; long-distance delivery risk; order value / freight risk
+b1f1b53eff2bcb85d584f05835dd8115,2018-08-08 15:15:17,PR,SP,0.6595156353606357,handoff / delivery promise risk; category track-record risk; seller track-record risk
+6c353b764e0d5e28cb2852e8e8603def,2018-07-14 14:34:33,SE,MA,0.6554290865410966,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+cb123d857949246d3e5f1c532280c023,2018-07-10 23:42:30,SP,SP,0.6548496763487602,handoff / delivery promise risk; category track-record risk; order value / freight risk
+7e80537703a1b61bf60fbc4d67e0d641,2018-07-12 16:36:22,GO,MA,0.6422279638834405,handoff / delivery promise risk; long-distance delivery risk; order value / freight risk
+885ae5d5896b9a5f3bd2a626876ace12,2018-07-05 13:46:13,SP,SP,0.6400485283720493,handoff / delivery promise risk; category track-record risk; seller track-record risk
+17295d6651c53865e020aa846be5ce3f,2018-08-03 01:50:48,SP,SP,0.635467233437071,handoff / delivery promise risk; order value / freight risk; category track-record risk
+dd787ad9c97e5504d6ea0bd294906902,2018-08-14 17:02:40,SP,SP,0.633429963020403,handoff / delivery promise risk; seller track-record risk; category track-record risk
+9c78e72b5160190f45195d6ecf7875dc,2018-08-08 17:09:38,SP,SP,0.6319818183605898,handoff / delivery promise risk; category track-record risk; order value / freight risk
+875c175eb6577637f9001b99dc54a7e1,2018-07-20 23:27:39,SP,SP,0.6200169245472316,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+52550cee1dda83b2c06260891897dc60,2018-08-06 12:35:39,SP,SC,0.6196986900153474,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+8624511aa767a83ed91a47c158320964,2018-08-06 15:26:36,SP,SC,0.6137264767234353,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+cb8372ec4562008e6648acf4fa8b81c7,2018-08-15 14:02:53,SP,SP,0.6119626252000728,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+b67ec1ba150cc097d3ab518272e6cf3f,2018-07-16 16:41:20,SP,MA,0.6114992435426841,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+35bf7f86bc7add201e5b6573052157f0,2018-08-13 22:22:03,RJ,SP,0.608958414766889,handoff / delivery promise risk; category track-record risk; seller track-record risk
+6ffc78c9003aa616f58b4de610bcce29,2018-07-16 13:57:11,SP,MA,0.6051228798495761,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+b703b9bca2536eca02a03e9f8f00fc47,2018-08-12 13:25:50,SP,SP,0.6008691079693226,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+bf0b7464d227364486f59a79f335a212,2018-07-26 21:16:41,SP,SP,0.6002308037029508,handoff / delivery promise risk; order value / freight risk; product / basket complexity
+234c056c50619f48da64f731c48242b4,2018-08-14 14:49:15,SP,SP,0.5960165514635866,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+cb3633965eff0518e61c0d44f06fe48f,2018-07-08 22:06:06,SP,SP,0.5932639828472915,handoff / delivery promise risk; category track-record risk; product / basket complexity
+d3310038bbf991ce02501a51022f5283,2018-07-30 14:26:27,SP,MS,0.5925007531323516,handoff / delivery promise risk; order value / freight risk; category track-record risk
+e7a0d968e1490c9d5c075df5f3e751ce,2018-07-12 21:51:56,SP,MA,0.5841815955186963,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+70a3acb4b096f675be6a2e03e2fb67bd,2018-07-12 17:48:52,BA,SP,0.5828673233262855,handoff / delivery promise risk; order value / freight risk; category track-record risk
+2868122766fb8490193dc08920622c8b,2018-08-04 17:43:05,GO,SP,0.5827046731348853,handoff / delivery promise risk; category track-record risk; seller track-record risk
+d3b7594cc1a07125979df784dbec5c5e,2018-07-30 17:38:07,SP,SP,0.5809467122920521,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+b77c7b2203310a5160f61121eaf97415,2018-07-23 10:53:28,DF,SP,0.5790215256361076,handoff / delivery promise risk; seller track-record risk; category track-record risk
+a4a05d9529999a7a1bfc497a2cb1221a,2018-07-08 20:12:24,ES,SP,0.5739405282725535,handoff / delivery promise risk; category track-record risk; order value / freight risk
+b436eb981676e54c0bc9bcade0e079c4,2018-08-06 09:29:23,SP,PR,0.5737034172986245,product / basket complexity; order value / freight risk; category track-record risk
+bda46920fb31dc59b147208200b18377,2018-08-14 18:22:47,SP,SP,0.5731271978083273,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+f5af86a3bea41e5daef5c06e7a02ad2e,2018-08-01 23:24:08,SP,SP,0.5605445806129983,handoff / delivery promise risk; order value / freight risk; seller track-record risk
+df13cbaf3230c62a4b582317936e8a39,2018-07-08 11:25:34,SP,SP,0.5599579008585321,product / basket complexity; seller track-record risk; order value / freight risk
+84960d31af78367051a7134bf7b64f29,2018-07-12 22:09:55,DF,MA,0.5586996316748084,handoff / delivery promise risk; seller track-record risk; category track-record risk
+1b0bc119ea5ac37e73e2275afc7904ee,2018-08-14 14:19:51,SP,SP,0.5580543413964013,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+20ed2a2a62a766cbb3f2636a85ce3eab,2018-07-10 13:20:06,SC,SP,0.5574061327779611,handoff / delivery promise risk; category track-record risk; order value / freight risk
+bd429f272e71ed50b0adf8defc8d24e1,2018-08-07 16:49:52,SP,SP,0.5569920681001599,handoff / delivery promise risk; order value / freight risk; category track-record risk
+0f38051157b7ad1d4e0b6c5d20de6ae7,2018-07-31 12:06:37,RJ,SP,0.5557695634121947,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+48f5a8fa0f281cf8ab2f7905a11c3c29,2018-07-23 22:42:35,SP,SP,0.5478684594828586,handoff / delivery promise risk; product / basket complexity; category track-record risk
+a8fabca91cde3202401e6078441f1cd2,2018-07-13 00:33:18,RS,SP,0.5449390306310646,handoff / delivery promise risk; seller track-record risk; category track-record risk
+9bd46627fb3249657cec3b1320aea004,2018-08-01 00:02:17,SP,SP,0.5427552251099004,handoff / delivery promise risk; seller track-record risk; category track-record risk
+d47221803d32f8f54b53694c19f0a368,2018-08-04 14:33:08,SP,SP,0.5427317352647248,handoff / delivery promise risk; order value / freight risk; category track-record risk
+cf5c8d9f52807cb2d2f0a0ff54c478da,2018-08-24 13:04:05,MT,SP,0.5427028767413937,product / basket complexity; order value / freight risk; category track-record risk
+5f8e8bff26bd07b73a3ecf086de33d4a,2018-08-12 22:56:51,RS,SP,0.5407586740601104,product / basket complexity; order value / freight risk; category track-record risk
+76c4c846aae2dae9e87dfa492c3f5259,2018-08-06 14:01:56,RS,SP,0.5393428511476104,product / basket complexity; order value / freight risk; seller track-record risk
+9f7db45b6f8cc96acdf9c10d8a56bf74,2018-07-09 23:08:29,MG,SP,0.53696627049202,handoff / delivery promise risk; category track-record risk; order value / freight risk
+346fa124d404d88a793438c41f21932b,2018-07-22 00:51:56,RS,PR,0.5358373007611689,product / basket complexity; seller track-record risk; order value / freight risk
+80a26b4ee1a6aff31f37986403491366,2018-07-31 12:52:57,SP,SP,0.5350969469892575,handoff / delivery promise risk; order value / freight risk; category track-record risk
+4fb104ec6918efe57f7e105fe598d96f,2018-07-01 20:24:32,TO,SP,0.5339848821288394,product / basket complexity; order value / freight risk; long-distance delivery risk
+aa2dc936dd126536c8f2eb4dbaf37333,2018-07-30 08:34:27,SP,SP,0.5322014515186956,product / basket complexity; seller track-record risk; order value / freight risk
+e78777ae8bbd5574ac03f4fd12e5daed,2018-08-14 19:28:27,RJ,SP,0.5318220055358367,product / basket complexity; order value / freight risk; category track-record risk
+7f9cfd88530c3c6d0ce6084b27ef46ff,2018-08-13 23:03:46,PA,SP,0.5299720895788215,product / basket complexity; order value / freight risk; long-distance delivery risk
+2c039eca196d1a548fd739e82713a1b1,2018-08-19 11:28:18,SP,SP,0.529785926699188,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+3386674e0363653ac5f71597d88d80fe,2018-07-23 12:04:23,GO,SP,0.5287154267622474,product / basket complexity; order value / freight risk; seller track-record risk
+5fec03fce725fff481779aff4be805d8,2018-08-04 11:26:44,SP,MG,0.5268384786278762,product / basket complexity; order value / freight risk; category track-record risk
+d6cd9d63e25452e0278cb6eeed08de6b,2018-08-04 18:07:07,CE,SP,0.5265152462062412,product / basket complexity; long-distance delivery risk; order value / freight risk
+bc839831ba2010861cf9e75ed8f1306f,2018-08-02 12:06:29,SP,SP,0.5258798678897194,handoff / delivery promise risk; order value / freight risk; category track-record risk
+f28a15daf894f299ef995958883bcaa7,2018-07-06 14:00:33,SP,PR,0.5257305052098034,handoff / delivery promise risk; seller track-record risk; category track-record risk
+4044c5fad995d07177b0c09ff2b0b7f6,2018-08-06 10:58:22,TO,SP,0.5224919141014817,product / basket complexity; order value / freight risk; seller track-record risk
+5f3c3f02ee527647eadaeab108a89f51,2018-08-06 10:55:03,MG,SP,0.5224727957791654,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+abd7d619de0d42df3a64707190c05bb6,2018-07-07 09:21:43,RJ,SP,0.5222887909649724,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+5410087995e1ebb53c26ce8e52ff29e0,2018-07-14 00:04:42,SP,SP,0.5212956101496724,product / basket complexity; order value / freight risk; category track-record risk
+0e1ddbe485dfa358d24e22e5394d0484,2018-07-28 15:47:52,SP,SP,0.5196732016975345,product / basket complexity; seller track-record risk; category track-record risk
+dda0996054bec18cafa1ede0d62dd3cb,2018-08-03 18:54:39,DF,SP,0.5190087562174625,product / basket complexity; order value / freight risk; seller track-record risk
+3c8cf4a64088009cadc132d10d0ae7f4,2018-08-02 15:57:13,DF,MG,0.5171783108850612,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+62ce4e3989a3477928510bb4d1064cc4,2018-07-19 01:35:59,SP,SP,0.5162979241928626,product / basket complexity; order value / freight risk; seller track-record risk
+919baca007d9525b6668c18f79a33197,2018-08-21 12:26:53,RS,SP,0.5149085724908368,product / basket complexity; seller track-record risk; category track-record risk
+bb04237dd8964e0983c1d0bc623dcfeb,2018-08-06 11:19:54,SP,SP,0.514697099210442,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+45060534aef780077c10103b60fe71c4,2018-07-03 15:40:07,RS,SP,0.5138790104627065,product / basket complexity; seller track-record risk; category track-record risk
+6dfd5e5c5068dadbb8ac93001b69677b,2018-08-01 00:22:34,MG,SP,0.5125109546157564,product / basket complexity; order value / freight risk; seller track-record risk
+4c480567d1db63cffddc552638c35d8f,2018-08-04 19:48:47,SP,SP,0.5114924441846845,product / basket complexity; order value / freight risk; seller track-record risk
+ffb8f7de8940249a3221252818937ecb,2018-07-22 12:58:25,GO,SP,0.5106327364276817,product / basket complexity; order value / freight risk; category track-record risk
+78e669f43077eded2d55ba9455560995,2018-08-05 15:42:51,RS,SP,0.5099737350251131,product / basket complexity; order value / freight risk; seller track-record risk
+d1ab8de1e279bd8a55e4135f83d5c599,2018-07-29 20:26:54,SP,SP,0.5088713742209761,product / basket complexity; order value / freight risk; seller track-record risk
+ec99cf3ef9a84993f1e55aa4fc615c42,2018-08-07 11:29:30,PR,SP,0.5067491892054353,product / basket complexity; order value / freight risk; category track-record risk
+407fe646704ea7828e324c8ef7e7e616,2018-07-23 15:44:35,PR,PR,0.5066195910470713,product / basket complexity; order value / freight risk; category track-record risk
+fa3cc6b1b48c7b730f6c4c43e423c5aa,2018-08-02 17:53:47,PB,RN,0.5061459279268248,product / basket complexity; seller track-record risk; order value / freight risk
+c21fcb36121a9b1c65eed7b20f0862bd,2018-07-23 12:20:12,PA,SP,0.504181213397908,product / basket complexity; order value / freight risk; long-distance delivery risk
+5aa89bb7eb1a8dca4d70fcd37878c8a4,2018-07-25 10:54:43,RS,SP,0.5039994302485398,product / basket complexity; order value / freight risk; seller track-record risk
+a2d65cbc20a4d7cbdbda0bc41b1e228c,2018-08-08 10:32:05,SP,SP,0.502570197906647,product / basket complexity; order value / freight risk; category track-record risk
+94ca38619d7e64f94facac403a99682d,2018-07-28 13:13:00,SP,SP,0.501667746761292,product / basket complexity; order value / freight risk; seller track-record risk
+f66ab2fcf6eb4fbb8c027f16de902cdc,2018-08-01 13:21:58,RJ,RJ,0.5009776994371116,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+328ae377ef041759aacefa4eee149cdc,2018-08-01 13:52:54,SP,SP,0.5000986538726104,handoff / delivery promise risk; order value / freight risk; category track-record risk
+5d9eaab2f0968ee661d96ba4afdf807d,2018-07-05 21:53:02,AP,SP,0.49996957235225536,handoff / delivery promise risk; long-distance delivery risk; order value / freight risk
+6cf9278559172d523d1fbcf08988418c,2018-08-05 14:39:32,SP,SP,0.49962174210455035,handoff / delivery promise risk; category track-record risk; seller track-record risk
+455fa9dc182a1003b2d78824f8aaf8d5,2018-08-04 10:08:19,SP,SP,0.4989780792350876,product / basket complexity; order value / freight risk; category track-record risk
+60b570df9018c6b6441017314a2dd081,2018-07-18 12:59:21,RJ,SP,0.49782446703198985,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+f5f15b58af5d98ee482e59fa194a9112,2018-07-08 23:17:32,SP,PR,0.49735822501819454,handoff / delivery promise risk; seller track-record risk; category track-record risk
+a5477627582780f6c347026e9c8ae0eb,2018-08-10 14:48:24,MT,SP,0.49663871709618945,product / basket complexity; order value / freight risk; seller track-record risk
+6f22dfc6908427b839369dd36662e575,2018-08-20 16:44:06,RS,SP,0.4963081051773189,product / basket complexity; order value / freight risk; category track-record risk
+e37cb83a77f2c53e5710ace789c66a97,2018-07-08 23:12:50,SP,SP,0.49457044351851454,product / basket complexity; order value / freight risk; category track-record risk
+4d680edbaa7d3d9bed69532957368a03,2018-08-20 14:34:51,MG,SP,0.49449263884850714,product / basket complexity; order value / freight risk; category track-record risk
+ee55499a08fd5913d6231b4702964354,2018-07-17 23:36:52,SP,SP,0.49443472193729104,product / basket complexity; order value / freight risk; seller track-record risk
+95f3615ae63fefb578bbcb55f66fba96,2018-07-20 11:39:02,MT,SP,0.49081767934489823,product / basket complexity; order value / freight risk; category track-record risk
+64439b9234594e291aa9a30c226f257e,2018-07-09 00:04:47,SP,SP,0.4905445786225748,handoff / delivery promise risk; seller track-record risk; category track-record risk
+64bd3c2db3673ba37030ccfcbfce8fe3,2018-08-06 09:14:00,SP,SP,0.4904134118617736,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+e1320973675a5fc37fab54cb22c582ab,2018-07-16 16:56:04,RJ,MA,0.48988849943689816,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+b228e6b7a06468abcf8c203f8e86689c,2018-08-05 15:56:36,PR,SP,0.4891033546268196,product / basket complexity; order value / freight risk; seller track-record risk
+f15eda4eee582fbfebc330748f24e208,2018-07-04 15:40:08,RS,SP,0.4887811238303382,product / basket complexity; order value / freight risk; category track-record risk
+f86672be5bf85864e88a08f231b43c2d,2018-07-19 09:56:25,GO,SP,0.4885516610372486,product / basket complexity; order value / freight risk; seller track-record risk
+6e10384d6572f58ba12c848b91299f39,2018-08-20 23:18:27,BA,SP,0.48817932234086836,product / basket complexity; order value / freight risk; long-distance delivery risk
+55881111d8b37a0e45cf97b156ae1943,2018-08-01 22:12:32,SP,PR,0.4880605775464108,product / basket complexity; order value / freight risk; seller track-record risk
+1ecf7a9583c0f92f07515fcd970004f2,2018-07-30 12:40:45,SP,SP,0.4874522011155845,product / basket complexity; order value / freight risk; seller track-record risk
+6895a2cb864a4bdb6ae98c2328666108,2018-08-05 23:10:33,SC,SC,0.4862685018707485,handoff / delivery promise risk; order value / freight risk; category track-record risk
+423e3739c511dd6b0752a064f9f20527,2018-07-12 19:37:30,SP,SP,0.4857607673110559,handoff / delivery promise risk; product / basket complexity; category track-record risk
+a833e4af2b4c893929b9f3adce3ecbeb,2018-08-19 10:47:22,MG,SP,0.48549779091042117,product / basket complexity; order value / freight risk; category track-record risk
+5bfce111a3fc0a622ab552626165ab2f,2018-07-17 18:18:33,SP,SP,0.48303781486132624,handoff / delivery promise risk; order value / freight risk; seller track-record risk
+a2f3817242b0d2b7404f5104ede3abcb,2018-07-29 13:10:49,BA,PR,0.4828712414822737,handoff / delivery promise risk; seller track-record risk; category track-record risk
+7c18eddfcd24680d80a502346221614e,2018-07-13 15:45:51,GO,SP,0.4828059273853952,product / basket complexity; order value / freight risk; category track-record risk
+dfa0b68ab249dcab78fb4046b7f3050d,2018-07-21 03:05:34,RJ,SP,0.48264300613887756,product / basket complexity; order value / freight risk; seller track-record risk
+c68d61e0221d10f9ffd722a96a2f10cb,2018-08-03 12:02:59,SP,SP,0.4823490183528403,handoff / delivery promise risk; category track-record risk; seller track-record risk
+0c0aeabd6ae9d7a303af615334a220d0,2018-08-20 14:45:48,SP,RS,0.4822008731923055,product / basket complexity; order value / freight risk; category track-record risk
+2b5d5c1847d069c5efeb82f4056c15d8,2018-08-07 17:47:15,SP,SP,0.48189870768808013,product / basket complexity; order value / freight risk; category track-record risk
+9c64b3536fb98572dd79bdaaab529f2f,2018-08-09 11:22:34,SP,SP,0.4816557155775386,product / basket complexity; order value / freight risk; seller track-record risk
+ca3625898fbd48669d50701aba51cd5f,2018-08-12 02:11:20,SP,PR,0.48117693655258614,product / basket complexity; seller track-record risk; order value / freight risk
+dc9b66f791e6bc0d3a44e2c513a1d117,2018-07-24 11:09:11,SP,SP,0.4809107941251911,product / basket complexity; order value / freight risk; category track-record risk
+9c9519dbd0554cfc5c787fdc7fa8ff42,2018-07-30 19:58:23,RJ,RS,0.480629414007718,product / basket complexity; order value / freight risk; category track-record risk
+d115642fba3060e4082472bb2801b111,2018-08-02 15:46:16,RJ,SP,0.4800793498288788,handoff / delivery promise risk; order value / freight risk; seller track-record risk
+4830473362441527781ef6c1860cac4c,2018-08-26 11:02:58,SP,SP,0.47936915894649573,product / basket complexity; order value / freight risk; category track-record risk
+5e9f1a71f53f74f8c4e829ffbb4b52e9,2018-07-30 22:02:54,RS,PR,0.479222965887041,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+d08bba6d656adbdc54eaf30b29532e89,2018-07-13 20:40:52,RJ,SP,0.47735544925673506,product / basket complexity; order value / freight risk; category track-record risk
+fd3fbd86a0ccdf3ae7981fcb539cf942,2018-07-03 15:49:51,RJ,SP,0.47698194614139067,handoff / delivery promise risk; category track-record risk; order value / freight risk
+3adab61474a972a1606b0c78d64b8aee,2018-07-06 21:38:46,PB,SP,0.4762712351344654,product / basket complexity; order value / freight risk; long-distance delivery risk
+18655e8acc771fadb130bf3048a5589e,2018-07-16 11:12:30,TO,MA,0.4757559986140528,handoff / delivery promise risk; category track-record risk; order value / freight risk
+72e57d0b326731ddd25d0d44212a42cb,2018-08-17 15:55:36,BA,SP,0.47439150817758974,product / basket complexity; order value / freight risk; category track-record risk
+0a4c05d2e1ae812a342af2f5c9a34b36,2018-07-31 13:55:19,SP,SP,0.4743769632025495,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+421bb69fc426ab8530ef85399541a9ac,2018-08-03 08:40:58,MG,SP,0.4736978979138941,product / basket complexity; order value / freight risk; seller track-record risk
+c5d1a6481a4fb3684588a2c7fc970918,2018-07-15 09:57:16,MT,MA,0.4731596387035254,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+05a5446738fb49ff21e44d318df1189d,2018-07-22 20:44:34,PE,SP,0.47263747912292237,product / basket complexity; order value / freight risk; long-distance delivery risk
+7d68f1da2ad6d6fa877e000788daf541,2018-07-04 14:45:47,MT,SP,0.47129733354771086,product / basket complexity; order value / freight risk; category track-record risk
+cf5dc40ae925414c07d1a74645ced6c2,2018-07-06 14:41:04,RS,SP,0.4708857629930179,product / basket complexity; order value / freight risk; category track-record risk
+4e7d9b3083e78f30d7534bd2fc1c5f2d,2018-07-17 19:32:00,PR,SP,0.47073446861695745,product / basket complexity; order value / freight risk; seller track-record risk
+3f71e424f5c88b151069830e08da04ad,2018-08-02 12:05:59,RS,SP,0.4705636784499336,product / basket complexity; order value / freight risk; seller track-record risk
+c577af5e9d5dbecf0ac65ff28cb8ad45,2018-08-09 20:25:54,SC,SP,0.4702435942131366,product / basket complexity; order value / freight risk; seller track-record risk
+201183426051cfc62c56f2414b2480e3,2018-08-01 17:48:17,SP,SP,0.47021698031558645,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+77af255581f9105559c089f67f770dc3,2018-07-23 22:18:51,SP,SP,0.46947823086421625,product / basket complexity; order value / freight risk; category track-record risk
+b2727344d4f955cb61829ed7f61b12fc,2018-08-01 16:30:46,GO,SP,0.46932317663871986,product / basket complexity; order value / freight risk; seller track-record risk
+70ee631a6eb795832e5318331fdf56d3,2018-07-31 14:20:47,RJ,SP,0.46922000255470286,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+9b5efb42ba88b4bdef7e4a84b439acc3,2018-08-05 16:31:22,SP,SP,0.4689924547764221,product / basket complexity; order value / freight risk; seller track-record risk
+bc535ec5ab20f26f4b9dc626fc4f7bf8,2018-08-01 10:25:10,SP,SP,0.4684326001484673,handoff / delivery promise risk; product / basket complexity; category track-record risk
+3016d3537e78284991256efc878941ec,2018-08-10 22:51:23,SC,SP,0.467881977527321,handoff / delivery promise risk; category track-record risk; order value / freight risk
+7ebe19943d85e81a7b0eb108681276b7,2018-07-22 10:28:14,DF,SP,0.4676390845962967,product / basket complexity; order value / freight risk; seller track-record risk
+ccec592b58e122dc2bfc2305152d9603,2018-08-24 16:35:15,SP,RJ,0.4675862429545503,product / basket complexity; order value / freight risk; payment-method risk
+d12750a4a29395c6d1cd3a83992f1e16,2018-08-01 22:27:35,MG,PR,0.46746666161479083,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+62977d4590bfc4beeeada22ce07ae17b,2018-08-19 21:59:49,PR,SP,0.46457356580281406,product / basket complexity; seller track-record risk; order value / freight risk
+a7c96c67b28612698cc5e0fb735dad94,2018-07-29 20:23:34,SP,SP,0.4641150476576703,handoff / delivery promise risk; seller track-record risk; product / basket complexity
+9c3fe119bb87723856e0d807d2ddf37d,2018-08-07 09:09:13,SP,SP,0.46369264236115787,handoff / delivery promise risk; seller track-record risk; product / basket complexity
+561a3b9c8e282502bd86b6504b17544b,2018-07-23 18:09:50,RJ,SP,0.46369078449965073,product / basket complexity; seller track-record risk; order value / freight risk
+a16607f4220f0e60ab4c71b915dd380c,2018-08-02 22:50:14,SC,DF,0.46355668034423453,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+1751f4e14a08d5188324c3a04175f76f,2018-07-19 15:42:35,RJ,SP,0.4634848932542514,product / basket complexity; order value / freight risk; seller track-record risk
+d4bec1a24c97bd17be18d77297a0f6a0,2018-08-09 20:31:52,PE,SP,0.462476032541717,product / basket complexity; order value / freight risk; seller track-record risk
+a1e6a1eeef79fc64be1040e5ac6d3119,2018-08-06 12:08:46,SP,SP,0.46235642950611255,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+672240472a9a48838f902ff436aab4bd,2018-08-13 00:05:06,SP,RJ,0.4612232357740626,product / basket complexity; order value / freight risk; category track-record risk
+a994ff8265aed38e21cb63b2d8402b09,2018-07-01 10:38:02,MT,SP,0.4607277591658381,product / basket complexity; order value / freight risk; category track-record risk
+f11b670018cde48868c96b03c4d3d1ce,2018-07-28 19:06:36,BA,SP,0.4607205278577614,product / basket complexity; order value / freight risk; long-distance delivery risk
+133b607354fbff7447ce545c8a0fa407,2018-08-21 21:18:33,SP,MG,0.46038796181351127,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+7731a91dd46b3556ca99d3b3c34373ef,2018-08-24 11:14:21,SP,RJ,0.4591026015134123,product / basket complexity; order value / freight risk; seller track-record risk
+013a98b3a668bcef05b98898177f6923,2018-08-11 23:17:37,RJ,SP,0.4588299939400178,product / basket complexity; order value / freight risk; category track-record risk
+257e2d62e2b031eb09cea19d847305c6,2018-08-05 18:52:58,RS,SP,0.4584779257318751,product / basket complexity; order value / freight risk; seller track-record risk
+730c83933acab283b21bae7b3fcc91d1,2018-07-05 08:54:50,MG,PR,0.458042703057247,product / basket complexity; order value / freight risk; category track-record risk
+87440e08790d85796f5b8bc9f5ed2707,2018-07-26 09:43:52,SP,SC,0.45762803000249475,product / basket complexity; order value / freight risk; seller track-record risk
+09b9364d966593e51c1edead847fd220,2018-08-10 08:13:28,ES,SP,0.45693726217791103,product / basket complexity; order value / freight risk; seller track-record risk
+f7d991e51703014752000a5a1dabc152,2018-07-25 08:56:28,RJ,SP,0.4563088237820413,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+a281208da836ef2c9d23718a7a855a92,2018-08-22 14:53:45,MG,SP,0.45399395058571473,product / basket complexity; order value / freight risk; category track-record risk
+02c9fa29186a8d00b3e73d3837ea40e5,2018-08-18 18:52:16,RJ,SP,0.45369523298009945,product / basket complexity; seller track-record risk; order value / freight risk
+4328a3227949bd5087871131a3e852a1,2018-07-30 18:42:01,SP,SP,0.4536068015745968,handoff / delivery promise risk; seller track-record risk; product / basket complexity
+67feea73c5369c0921af9d3c2d566edc,2018-07-21 21:36:11,SP,SP,0.4530139333923444,product / basket complexity; order value / freight risk; seller track-record risk
+41c51367243707ec4b1cf8baae5de951,2018-07-27 13:11:52,PR,PR,0.45278336505247163,product / basket complexity; order value / freight risk; seller track-record risk
+cf6452b3b5328de1ec580502fd48fcd7,2018-08-25 17:01:09,ES,SP,0.452469740552466,product / basket complexity; order value / freight risk; category track-record risk
+861135e965db93780ab935ee79c6a68a,2018-08-05 23:44:06,SP,SP,0.452269643789411,handoff / delivery promise risk; order value / freight risk; product / basket complexity
+6cfe2a252e18997b4a5b5a0a612e7a0d,2018-08-10 18:10:37,SP,SP,0.4521593660300708,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+c03748652e7cdfeb73bf4aa3b41da0dc,2018-07-11 18:16:29,PR,PR,0.4514632589971358,product / basket complexity; order value / freight risk; seller track-record risk
+fab137488ea6654792ec4cac3000cee8,2018-08-04 12:13:15,SP,SP,0.4509967929986481,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+c86b551898ce7979ac5f0ce6a4ed3bbb,2018-07-24 17:28:41,MS,MG,0.4495604488357523,product / basket complexity; order value / freight risk; category track-record risk
+ceb35b18f6b84c1c75f02859ce3160d9,2018-07-28 20:51:37,SP,SP,0.44930707869125763,product / basket complexity; order value / freight risk; seller track-record risk
+c2320c404179d2b8805c42b8b8de9668,2018-07-04 19:19:21,SP,SC,0.44925665821899846,product / basket complexity; order value / freight risk; category track-record risk
+7d2f60154f0f8219ade132f874d2e500,2018-07-24 12:43:00,DF,SP,0.4490924690205245,product / basket complexity; order value / freight risk; category track-record risk
+aeb70ca14a984230b34a6cbf48fe6d8a,2018-07-26 08:52:34,SP,PR,0.4489431337018739,product / basket complexity; order value / freight risk; category track-record risk
+5601fa41e5818b9941a6bdd21978b6ac,2018-08-20 23:35:44,SP,SP,0.4480906500313684,product / basket complexity; order value / freight risk; category track-record risk
+a63d6f123bbccd71286ef76811cb2a3b,2018-08-27 12:39:11,SP,SC,0.4478281652758332,product / basket complexity; order value / freight risk; category track-record risk
+ad1c31ec035e55a4187e536234b28e38,2018-08-17 10:04:12,RS,SP,0.4467434995257213,product / basket complexity; order value / freight risk; seller track-record risk
+96fac65dca5efca83efce7194c1b8605,2018-07-25 15:27:04,PR,SP,0.44524783296853543,product / basket complexity; order value / freight risk; category track-record risk
+370098d35ccd8a2af86b57c81ac7d24f,2018-08-19 22:59:47,SP,RJ,0.4446691268254836,product / basket complexity; order value / freight risk; category track-record risk
+f2ef7d612e69efa8075800e031d9880a,2018-07-31 13:18:12,SP,SP,0.4434336300244553,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+4bd15305c0c5f4d4d82b85f163b53954,2018-07-29 02:55:34,SP,SP,0.44126271276391,product / basket complexity; order value / freight risk; category track-record risk
+3a4e65de6ffd941f6a4ee824d472aabb,2018-08-15 18:01:23,SP,MG,0.4407430229147747,product / basket complexity; order value / freight risk; category track-record risk
+d364ed074343c683a974cfa900a9d4c9,2018-07-20 12:17:06,MG,SP,0.44028157941510043,product / basket complexity; order value / freight risk; seller track-record risk
+da2b5ed33ae5068005e9d2c43e7a3de1,2018-08-12 06:35:38,MG,SP,0.43979902671270943,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+7a70b827ebc6ab85bd4e28739619bb2d,2018-08-08 17:41:10,SP,PR,0.4393050520748256,product / basket complexity; seller track-record risk; order value / freight risk
+1397417a57ad1bbfe8d639df8cdee908,2018-07-02 18:16:59,RJ,PR,0.43914038427888946,product / basket complexity; order value / freight risk; category track-record risk
+f0e12869508b76f983393f9207582cc0,2018-08-01 23:32:19,PE,SP,0.4385755104879588,handoff / delivery promise risk; seller track-record risk; category track-record risk
+2fe2852de76ec325582d6cb9953e86fa,2018-08-13 18:15:19,SP,SP,0.43843957273653283,product / basket complexity; order value / freight risk; category track-record risk
+b5f7ed4633fb5be4575467a3ecd2ebc0,2018-08-04 22:31:02,MG,MG,0.43821784604237884,product / basket complexity; order value / freight risk; category track-record risk
+5c02bbcf8ee00ff276723c431b064505,2018-08-03 11:53:27,SP,SP,0.43812773844790515,handoff / delivery promise risk; seller track-record risk; category track-record risk
+4bd13580e951063d19e99e60bc4d1492,2018-08-03 13:37:30,PR,SP,0.43797884044219815,product / basket complexity; order value / freight risk; category track-record risk
+f5967f0a9a614d8ccb6b2c1c16bde5ed,2018-07-25 11:36:28,RJ,SP,0.4375015038982614,product / basket complexity; order value / freight risk; seller track-record risk
+d7f71d136da2fa678c39380a22d117df,2018-08-26 11:44:34,SP,MG,0.43732767709410464,product / basket complexity; order value / freight risk; category track-record risk
+84c8e85801737b1626fa898ede7682b0,2018-07-15 10:13:23,PR,SP,0.43650381122313187,product / basket complexity; order value / freight risk; category track-record risk
+24bb40ee9b9b6fc1cf2392a93aff4f6e,2018-07-11 18:20:18,PE,SP,0.4353319628075195,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+09be8ba0b5c0e3195ef77302707a192f,2018-07-01 22:16:18,MG,PR,0.43479306392894224,product / basket complexity; order value / freight risk; category track-record risk
+3e8ef04f228ea2e33b19ff30e0e61f38,2018-08-25 16:48:02,SP,SP,0.4336866887944099,product / basket complexity; order value / freight risk; category track-record risk
+b3112ca67f3afd4e20cf2ee91fc4f804,2018-08-02 22:46:54,SP,SP,0.4332643278085451,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+3b401cba521461d124e0487ea53bb009,2018-08-04 19:23:19,MG,PR,0.4321904863788598,handoff / delivery promise risk; seller track-record risk; category track-record risk
+984b33682c48ca8bfd773ebdfd0161fe,2018-07-10 20:40:26,SP,MG,0.4319706635216896,product / basket complexity; order value / freight risk; category track-record risk
+d7bfdc36e6fc0edc0abd8752151da345,2018-08-12 22:27:39,SP,SP,0.4318936624964771,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+780dfcd5aaf2662f3f6ce2201164394b,2018-08-22 21:26:03,RS,RS,0.43178345760506126,product / basket complexity; order value / freight risk; category track-record risk
+64958ed60e12bac04474ff739271a3b3,2018-07-30 19:01:11,SP,SP,0.43160870958998876,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+a908872306574c9405b29a838aee5521,2018-07-24 17:04:52,SP,MG,0.4311523889929961,product / basket complexity; order value / freight risk; category track-record risk
+ec082d3ffd103096f9274b6247217ff9,2018-08-15 18:26:53,SP,SP,0.43072123189378375,product / basket complexity; order value / freight risk; category track-record risk
+ddc3af0538e1279d548f8e4f6cbcc9de,2018-08-10 19:45:23,RJ,SP,0.43066010000807653,product / basket complexity; order value / freight risk; seller track-record risk
+f396e1280028fa9c8c83111abee5f2e9,2018-07-13 20:58:24,SP,PR,0.4298905552362347,product / basket complexity; order value / freight risk; category track-record risk
+c1a2ee16a0ebb378f57bdf69fcf45b79,2018-08-19 18:44:47,SP,SP,0.42866187538120143,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+d4fae577806d683110e00e18a5e181be,2018-08-28 19:32:05,SP,SP,0.4279016833102766,product / basket complexity; order value / freight risk; seller track-record risk
+cb78dafa7c2ca5d9eafdc6f02cd4f3b7,2018-07-22 19:49:25,PE,SP,0.4277585075146934,product / basket complexity; order value / freight risk; long-distance delivery risk
+acbd43df296646b7b242d1e25b18a646,2018-07-25 16:11:44,SP,PR,0.42735119813719386,product / basket complexity; order value / freight risk; category track-record risk
+4e41d776fc4ffdec6708862a05a1ea30,2018-07-05 23:17:03,RJ,PR,0.4257555211648626,product / basket complexity; order value / freight risk; category track-record risk
+77df84f9195be22a4e9cb72ca9e8b4c2,2018-08-16 04:29:53,SP,SP,0.4253765601345569,product / basket complexity; category track-record risk; order value / freight risk
+6826d3cfe92e5af877d3d2088f03d8c5,2018-07-13 23:01:20,RJ,SP,0.4244397848286628,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+4cae9d93ca1f1266e9ddfc79f7ff85db,2018-08-14 07:49:51,SP,SP,0.4244268460179793,handoff / delivery promise risk; seller track-record risk; category track-record risk
+93ae3d70a721582a8c0a1d28d804f947,2018-08-07 20:40:10,MG,SP,0.4242463311193477,product / basket complexity; order value / freight risk; category track-record risk
+fd0d8a359529c8fc086392d5b309d9ba,2018-07-28 04:57:48,RS,RJ,0.4242254805910698,product / basket complexity; order value / freight risk; seller track-record risk
+f6ac44bbece0129b596dfc21aede3c20,2018-08-07 14:07:40,SP,SP,0.42417907643881964,handoff / delivery promise risk; category track-record risk; seller track-record risk
+8fb95e274c827ed766c4833f1376e400,2018-08-06 12:58:28,RJ,SP,0.4234256467271784,product / basket complexity; seller track-record risk; order value / freight risk
+a1d38c97444889282dcb16502b3a8686,2018-08-07 21:44:50,MG,SC,0.42322251475428824,product / basket complexity; order value / freight risk; category track-record risk
+c33917dff50a1d91d9d26ea3c5e3a65a,2018-08-04 16:24:49,SP,SP,0.4211011358327942,handoff / delivery promise risk; seller track-record risk; product / basket complexity
+35ae6fcf66dba4f6760a20b921867b2b,2018-07-21 14:51:28,SP,PR,0.420764393467168,product / basket complexity; seller track-record risk; category track-record risk
+198cbd4bd806061597b3f8fbdf126ad6,2018-07-28 09:39:51,CE,SP,0.4205511532773286,product / basket complexity; long-distance delivery risk; order value / freight risk
+fbc212270a939b78ed5c8abcdc365ecd,2018-07-24 06:42:04,RJ,SP,0.41990069881744385,product / basket complexity; order value / freight risk; category track-record risk
+c2ed9a4ca7d4dca13950ec7e2505eada,2018-07-18 10:24:54,SP,SP,0.41975999518915924,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+92f21edc7e69a84e3e521e9adc7c83b8,2018-07-20 21:21:06,MG,PR,0.41872914750158363,product / basket complexity; seller track-record risk; order value / freight risk
+c14b0a3faf28a3052b92646eeae4799a,2018-08-01 20:33:06,SP,PR,0.41847684909611915,handoff / delivery promise risk; seller track-record risk; category track-record risk
+9b8aaa74d468897a211fb359950937e5,2018-07-26 12:10:31,SP,SP,0.41823286896675965,product / basket complexity; order value / freight risk; seller track-record risk
+5b4101f533b7c66611b649809ff634b1,2018-08-07 14:44:15,RJ,SP,0.41804188347007815,product / basket complexity; order value / freight risk; category track-record risk
+1c1f0315904930fe04e649a6eb20c4e4,2018-07-21 17:38:21,MG,PR,0.4178466913235911,product / basket complexity; order value / freight risk; category track-record risk
+c161187ab4f2133d752f8a028b51f74e,2018-08-06 19:48:32,PR,PR,0.4173252721923109,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+674eb13687ba86abeaee12ece9ce0309,2018-08-13 12:13:40,SC,DF,0.41721394780330584,product / basket complexity; seller track-record risk; long-distance delivery risk
+7cfdf7265c9572fc7b7cbd3b9cc438b7,2018-08-21 12:20:32,MG,MG,0.41678255586145657,product / basket complexity; order value / freight risk; category track-record risk
+ada9fa782c2b09e429a3075016e025c2,2018-07-27 21:34:25,RJ,SP,0.4165625248370122,product / basket complexity; order value / freight risk; seller track-record risk
+07e8c8c7545c3cf6386eaf464b1e8365,2018-08-08 12:51:29,MG,SC,0.41621043240385847,handoff / delivery promise risk; order value / freight risk; seller track-record risk
+4822b9a2b5589396deb0956b2b844afa,2018-08-12 18:06:46,BA,SP,0.41605490698952785,product / basket complexity; handoff / delivery promise risk; long-distance delivery risk
+c64f7f0d99ba9d06966f9bfe36e564ee,2018-08-10 00:17:09,SP,SP,0.41604230613283383,handoff / delivery promise risk; seller track-record risk; category track-record risk
+87466e583daa1445bfc03e595265cdcb,2018-08-01 21:36:45,SP,SP,0.4158056907259944,handoff / delivery promise risk; seller track-record risk; category track-record risk
+1a6b9a764637acbc39e1624a2211f548,2018-08-07 09:18:41,SP,PR,0.4154576086194864,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+494b5feb45ebf3e0dd57996b45bcf69f,2018-08-07 21:18:51,DF,SP,0.41485285706463243,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+308163f9666c3f335e92b0f0f61554ed,2018-07-12 11:24:13,RJ,SP,0.41447144886143716,handoff / delivery promise risk; seller track-record risk; long-distance delivery risk
+db115077a7bd949a515922eb40aea6c3,2018-07-23 11:30:12,MG,SP,0.41294391691894744,product / basket complexity; order value / freight risk; seller track-record risk
+d4112b98adfb1a788d4c6205903eaa39,2018-07-15 01:16:15,RS,SP,0.41288497073534364,product / basket complexity; order value / freight risk; seller track-record risk
+d613e5d350507dc43eed8de7ccffdf6a,2018-07-23 16:15:17,SP,SP,0.4120478134810728,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+d199e989bbb5f7b410c1a717d589499e,2018-07-30 15:26:34,SP,SP,0.41156841980185915,product / basket complexity; category track-record risk; seller track-record risk
+1dacb75a3f524523a6521835a6787057,2018-08-13 16:50:25,SP,SP,0.41101343077251995,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+ccd2795b4fd33757b039fb15b8a12109,2018-08-15 16:58:08,SP,SP,0.40974326018174717,product / basket complexity; order value / freight risk; seller track-record risk
+dc2152f56d388bfc5f358fd79d3e6bdc,2018-08-19 21:36:57,MS,SP,0.409163735061582,product / basket complexity; seller track-record risk; category track-record risk
+4d1eeeb5922d5d55dbe1be7623dc18cd,2018-08-11 15:16:32,RJ,SP,0.4067000232803642,product / basket complexity; order value / freight risk; seller track-record risk
+0f6c56738e9a7a30c78b735a231d3f56,2018-08-12 18:43:51,RJ,SC,0.40600433743603326,product / basket complexity; order value / freight risk; seller track-record risk
+2268107fccbaa5d8b921f82146286350,2018-07-08 19:25:52,RR,SP,0.40515367483997106,product / basket complexity; long-distance delivery risk; order value / freight risk
+b35945f2f7f01113c25e3029adafc413,2018-07-06 16:25:16,SP,SP,0.40464035865556625,product / basket complexity; order value / freight risk; seller track-record risk
+071be1c98f3a6f467d8e472d94350db8,2018-08-07 01:19:24,MG,RS,0.4042618271100173,product / basket complexity; order value / freight risk; long-distance delivery risk
+9fce4af6a15c3fa67e2ee1b52839d6dc,2018-08-16 00:54:09,RJ,RS,0.4041066500348349,product / basket complexity; order value / freight risk; category track-record risk
+d12bd41a85b974ae688d89083c5dc77c,2018-07-28 18:11:21,SP,SP,0.4030585891724922,product / basket complexity; handoff / delivery promise risk; category track-record risk
+a445af0d83713885b6b576796191b1fa,2018-07-23 19:07:01,MG,SP,0.4025425262787824,product / basket complexity; seller track-record risk; order value / freight risk
+2d2ce74a9a75fd5144160b74f0d536cc,2018-07-29 18:32:14,SP,SP,0.40207836396556,product / basket complexity; category track-record risk; seller track-record risk
+df60585f4cb85bc7e7b6531f59920613,2018-07-16 10:33:02,RJ,SP,0.40124354638024146,product / basket complexity; seller track-record risk; order value / freight risk
+946f3e7b0d6366f4485b948f11d01ee5,2018-08-09 07:25:55,RJ,SP,0.4004558959853027,product / basket complexity; order value / freight risk; category track-record risk
+fd607d0a02cb276bc764a15f80f0423f,2018-07-26 09:13:04,BA,SP,0.39985748834037205,handoff / delivery promise risk; product / basket complexity; long-distance delivery risk
+a6c422d2b642708cb8aabe049013a49e,2018-07-13 17:56:31,AL,MA,0.3997627859678383,handoff / delivery promise risk; category track-record risk; long-distance delivery risk
+6fea02b03afef8797df7b9fd8efb3f5f,2018-07-30 09:31:34,SP,SP,0.39971507569958514,handoff / delivery promise risk; order value / freight risk; seller track-record risk
+9f1887ee4f71cd4db972aeac47ca54f7,2018-07-26 10:12:47,BA,SP,0.3992335859743813,handoff / delivery promise risk; long-distance delivery risk; order value / freight risk
+7b598857cddf46a156640f69f70a6e6d,2018-07-25 01:12:50,SP,RS,0.3987049118518538,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+bc60b588a732fb42a8145a501c6a61d2,2018-08-24 14:09:35,SP,SP,0.39862618935802985,product / basket complexity; category track-record risk; handoff / delivery promise risk
+4313ba67282f2ba99c4b3c4f3e344595,2018-07-30 19:38:01,SP,SP,0.3982814846349102,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+a9f77c0325604197d9a0048d0dcad33f,2018-07-24 16:50:04,SP,PR,0.39754903022324944,product / basket complexity; category track-record risk; order value / freight risk
+1cf0fc2c07de89a211f8dcf9ff5af15b,2018-08-07 21:53:39,SP,SP,0.39739823848009254,handoff / delivery promise risk; order value / freight risk; category track-record risk
+830c7606efcb798e1bacdc56247dc134,2018-08-09 13:35:56,SP,SP,0.3968928353760744,product / basket complexity; order value / freight risk; seller track-record risk
+51d70226d271148b34f0ae2a6aaef7e8,2018-08-06 00:44:16,RS,SP,0.396796571136773,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+587e32dd528769d669d539531d32aeb5,2018-08-10 11:46:09,RJ,SP,0.39627765803150483,product / basket complexity; seller track-record risk; order value / freight risk
+f2e689a11a0a962aa271e7715b516ee2,2018-08-06 20:19:36,CE,RS,0.3957621495451966,product / basket complexity; long-distance delivery risk; order value / freight risk
+bdda3ba1c505bc39ff2117e340280a74,2018-08-03 16:57:01,SP,SP,0.3953746906768047,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+5c4e6dc9331f62136e1d51c2af608af9,2018-08-15 16:11:47,GO,SP,0.3953607298975126,product / basket complexity; category track-record risk; order value / freight risk
+df71ba0f02310921da0a5e4f708916a5,2018-07-28 21:37:46,RJ,SP,0.3953378692671421,product / basket complexity; order value / freight risk; seller track-record risk
+27bc27fbc876aa11a925efac34583f63,2018-07-19 19:38:57,PR,SP,0.3947288478935073,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+935337c314d75668fe94f2a51ade79a3,2018-07-04 23:08:12,SP,SP,0.3941232689835714,product / basket complexity; seller track-record risk; category track-record risk
+37c647851a4d30342bc4dd9ec8c95861,2018-07-01 00:49:58,RJ,SP,0.3935496415967189,product / basket complexity; order value / freight risk; seller track-record risk
+783063a2c412e7e731cb43a35fa4b8b1,2018-07-27 17:29:41,SP,SP,0.3933177870238936,product / basket complexity; category track-record risk; order value / freight risk
+5076a734a6657a96ccc71e2bc8874e08,2018-08-14 09:38:33,RJ,SP,0.39313672580514075,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+995afafadabbc8e07804a5f08f096b01,2018-08-06 09:55:30,SP,SP,0.3924250375606809,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+084ce670827e3ebb5f585818b985bc25,2018-07-03 21:05:39,RJ,SP,0.39233827584221215,product / basket complexity; seller track-record risk; order value / freight risk
+f6956fd0c7b151f0441f43f7bc6eab81,2018-07-19 17:35:41,SP,SP,0.3918673307612021,handoff / delivery promise risk; seller track-record risk; category track-record risk
+cd74cd8f3a1445a29e098dcac4cc8d11,2018-07-19 20:33:00,RJ,SP,0.3915940256722799,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+cdf7511b632d2a9b53d70b1e24a45e70,2018-07-04 16:35:27,SP,SP,0.3914930473961612,product / basket complexity; seller track-record risk; category track-record risk
+b29aef07fc359c950db89a961acc1fa2,2018-08-15 13:06:20,SP,SP,0.391188299552951,product / basket complexity; category track-record risk; handoff / delivery promise risk
+d6facb241e387bcff2026c6cc25eaf68,2018-08-06 15:08:45,PR,PR,0.39077920463285676,handoff / delivery promise risk; seller track-record risk; category track-record risk
+e9e702d3e92379f53b4805d98c094bd7,2018-07-15 14:16:19,RS,PR,0.3906726894028663,product / basket complexity; seller track-record risk; category track-record risk
+43f9a3d3e9d95525bfce717e31f72a56,2018-07-11 00:13:33,RS,RS,0.390105094601973,handoff / delivery promise risk; category track-record risk; seller track-record risk
+71a9b0571a7e3a1094faefdd6be2a999,2018-08-23 11:30:22,RJ,SP,0.38846889111228255,product / basket complexity; seller track-record risk; category track-record risk
+4e08bdd0a71b43ba19f8c0a89c8ce665,2018-08-07 12:29:39,SP,RJ,0.38737423036981883,product / basket complexity; order value / freight risk; long-distance delivery risk
+737e75dc8fad86ce2b5b41377a28dac5,2018-07-12 17:26:37,SP,SP,0.3873328480888909,product / basket complexity; category track-record risk; handoff / delivery promise risk
+d5211af24819d319c02a285e7bb51750,2018-08-03 16:29:05,SP,SP,0.3871804494376953,product / basket complexity; seller track-record risk; category track-record risk
+5aa65dc27dd9c4e4d81ec84ead95feb2,2018-07-31 13:35:23,RJ,MG,0.3857211337349299,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+67f05f6d7d84bf6e1abf7d7d8e8a41e3,2018-07-27 19:46:45,RS,PR,0.38522799616627995,product / basket complexity; order value / freight risk; seller track-record risk
+f7f0b79050e7ef0b1cf7ffceb0aa114a,2018-08-04 14:40:31,MG,SP,0.3850054410214084,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+ac13d782734edd6b595ba54850c1431f,2018-07-20 22:25:17,GO,SP,0.3841535792649644,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+260c1e77793a506e09dd0f8135109966,2018-08-17 06:37:13,SP,SP,0.3828269725495436,product / basket complexity; handoff / delivery promise risk; category track-record risk
+b2a3423735119b088bc62dd62cf053a8,2018-08-02 12:06:07,SP,SP,0.3806941644617928,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+cd718ff08da2d61cb462de44ae33bc56,2018-08-11 19:28:17,RJ,SP,0.3806389483972768,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+3eae7531a136877d61e1aaea2684fcea,2018-07-01 18:03:34,PR,SP,0.3804348696397912,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+b3be0e1f9679fcd94718c69fa5f585fd,2018-08-02 13:43:04,BA,SP,0.3803846434814778,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+9a99c1f97699ec839f7966eb7c7d5afa,2018-07-25 15:54:26,SP,SP,0.3803845782120322,product / basket complexity; seller track-record risk; category track-record risk
+4d495c697709fcab0a85b3c5247f89e0,2018-08-13 07:44:40,RJ,SP,0.38012959747341285,product / basket complexity; seller track-record risk; order value / freight risk
+8e8f8ef29c78c7b9c98cac70dd331ce2,2018-08-08 14:24:24,RS,BA,0.379930598258882,product / basket complexity; long-distance delivery risk; handoff / delivery promise risk
+03aba68b07658f28f29612641f08d4ba,2018-08-08 14:27:15,RS,BA,0.379930598258882,product / basket complexity; long-distance delivery risk; handoff / delivery promise risk
+4387477eec4b3c89b39f3f454940d059,2018-08-09 20:45:10,SP,SP,0.37965821107998227,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+3aa0358c1a9b8019bd14ab006b6e8284,2018-07-30 15:27:39,MG,PR,0.3786551773567644,handoff / delivery promise risk; seller track-record risk; category track-record risk
+2868cec2c0d3cc29873e13a46f55f532,2018-07-24 19:04:45,SP,RS,0.3786405634525084,product / basket complexity; category track-record risk; order value / freight risk
+a29c25c2c9c3100daf48a25880312c23,2018-08-01 02:02:28,RJ,SP,0.3784818763287282,product / basket complexity; order value / freight risk; seller track-record risk
+dbb786efd821d7f903d79cb502ba3083,2018-08-02 19:14:27,SP,SP,0.3782195442357966,handoff / delivery promise risk; order value / freight risk; category track-record risk
+99db47a6842959e2064fb56a7b4c91e0,2018-08-10 23:20:31,SC,SP,0.3777331071864292,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+85463a351122352816fc7a395489cd0e,2018-07-23 11:56:34,SP,SP,0.37770374138702073,product / basket complexity; category track-record risk; handoff / delivery promise risk
+bad80abf6bc799b1c731a90f1a761689,2018-08-02 16:32:20,SP,PR,0.3773875754424154,product / basket complexity; handoff / delivery promise risk; category track-record risk
+f2f591903d71a4f49366f35ccd0017d3,2018-07-27 15:41:39,MG,SP,0.3772339410008942,product / basket complexity; category track-record risk; long-distance delivery risk
+119da8fe76c893e189ee759f82bbc8d6,2018-07-16 18:19:42,SP,SP,0.3772287317522417,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+aba560ab127e5b68433f34376747f9aa,2018-08-01 21:11:21,GO,SP,0.37682473390577337,product / basket complexity; order value / freight risk; seller track-record risk
+b8cf03f4a08e3dc7eb2509ef520b20e2,2018-08-22 08:25:48,SP,SP,0.3766906598355849,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+0e0170b61d0a01970751c69f238a4dc2,2018-08-07 15:58:39,SP,SP,0.37593023664926317,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+b779a9b1774b12944ab77d39b831f151,2018-08-19 20:53:28,SP,SP,0.37576116154809663,handoff / delivery promise risk; category track-record risk; seller track-record risk
+f83a0ce66c457dfdf564dafa364ae1d4,2018-08-23 10:25:47,RJ,SP,0.37516973702329054,product / basket complexity; seller track-record risk; order value / freight risk
+c96496058fe55b7e844cd5e3a2562f85,2018-08-21 10:38:28,SP,MG,0.37486400779406065,product / basket complexity; order value / freight risk; category track-record risk
+bf2910ffd07baa17d7d2ce5a170da758,2018-07-18 16:20:25,SP,MA,0.3746229971393841,handoff / delivery promise risk; long-distance delivery risk; seller track-record risk
+aa14b8f4567fef1be1a8912ca010f1c7,2018-08-24 21:17:00,SP,SP,0.3744706937120966,product / basket complexity; seller track-record risk; order value / freight risk
+e6eea6fed0b356b11cf7e35f76320b03,2018-08-08 12:18:01,SP,SP,0.37446266515263976,product / basket complexity; handoff / delivery promise risk; category track-record risk
+9d302458a5c2070516051da353068870,2018-08-19 11:06:44,SP,RJ,0.37399458563055,product / basket complexity; order value / freight risk; seller track-record risk
+663d6f01237b7d9d1257bd3ce460af4b,2018-07-25 13:20:32,SP,SP,0.37227120066605857,handoff / delivery promise risk; seller track-record risk; category track-record risk
+60b17021cb20c803ad265dc1847f06a4,2018-07-24 17:06:32,SP,SP,0.3719388786306316,product / basket complexity; seller track-record risk; category track-record risk
+4fc1fb51c00a593d698708ba797bf73c,2018-08-05 19:49:07,PA,SP,0.3718472835138679,product / basket complexity; long-distance delivery risk; category track-record risk
+6ea09ab8953f7fda1f69d387c9d252eb,2018-08-11 18:44:21,SP,SP,0.3717791157323136,product / basket complexity; seller track-record risk; category track-record risk
+e1faf9211232539926d65299a9067f98,2018-07-30 22:49:08,RJ,SP,0.37054126610008536,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+4e9fe46327dd25b934cc82d238a874f8,2018-08-12 18:23:39,MG,SP,0.37014268393680627,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+f97b2bdfbaca9c2f04722d8cbc8cc8a5,2018-08-08 18:34:29,SC,SP,0.369832837333185,product / basket complexity; order value / freight risk; seller track-record risk
+ed4116f3f55e67e9a26b9f1891ba2497,2018-08-09 13:21:48,PB,SP,0.3695348702725272,handoff / delivery promise risk; long-distance delivery risk; seller track-record risk
+0eb943e25686a73425894fcc95e842e3,2018-08-16 09:00:13,RJ,SP,0.3692617999820047,product / basket complexity; order value / freight risk; seller track-record risk
+f8fd2ac9626cada5584890581ca7e55b,2018-08-06 15:15:03,SP,SP,0.3685650355348695,handoff / delivery promise risk; seller track-record risk; category track-record risk
+8a7c3a3a48dbc1c76fb4e7e5844d5584,2018-07-25 13:00:01,SP,SP,0.3682568028902196,handoff / delivery promise risk; order value / freight risk; seller track-record risk
+4b42a606687e048a7a33669b84bf8690,2018-07-28 22:23:02,AM,SP,0.36756425445891233,product / basket complexity; handoff / delivery promise risk; long-distance delivery risk
+e299d0b6b42a62df652195edf2b551da,2018-07-24 10:43:21,BA,SP,0.367332538081012,product / basket complexity; long-distance delivery risk; order value / freight risk
+3058f418c175f89b5dc680bcb5634ab1,2018-08-22 18:03:39,SP,MG,0.3670318731612684,product / basket complexity; seller track-record risk; long-distance delivery risk
+33621dd1b751a02342dc065c32f1c96c,2018-08-02 19:39:53,RJ,RJ,0.3669944938453259,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+56c342adb8f074b20da098539a429d68,2018-08-07 09:01:15,RJ,RJ,0.3666523220933933,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+4de51073bc1cd11e85fb03f29508b308,2018-08-06 17:14:50,CE,SP,0.3665670976995482,handoff / delivery promise risk; long-distance delivery risk; order value / freight risk
+05a6f444527fc90e28da6088b1707b20,2018-08-03 12:20:34,ES,SP,0.3663250402647494,handoff / delivery promise risk; seller track-record risk; category track-record risk
+482e206fff82661add35d3aeab19fd93,2018-07-14 15:26:48,RJ,SP,0.3649818377691662,product / basket complexity; seller track-record risk; order value / freight risk
+18137b5db086c8612160066abecac8a7,2018-07-20 23:33:59,RJ,PR,0.3649108910709302,product / basket complexity; category track-record risk; long-distance delivery risk
+7811343e37a3cbe3fd4755f1a448c765,2018-07-16 22:36:53,SC,SC,0.3646372393644474,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+44d9570957b8244670f565604344b98e,2018-07-14 14:55:43,RJ,RS,0.3637638712691195,handoff / delivery promise risk; category track-record risk; order value / freight risk
+58274272cfde0e71c0ee61eaee5a60e1,2018-08-14 22:35:01,SP,SP,0.36374045073972144,handoff / delivery promise risk; category track-record risk; order value / freight risk
+55cb20782f4a6b0174ea7afdb736265c,2018-07-31 00:23:09,RJ,SP,0.3635988210502483,product / basket complexity; order value / freight risk; seller track-record risk
+3bc3db2c8da17bdf6b0344b1a2ed7cb8,2018-08-01 13:56:49,SP,SP,0.3635198173288539,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+133a94aa41cab8ad1d4cf02c2636b9cc,2018-07-26 09:20:03,RJ,SP,0.3630052266964792,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+96908b69c6dfbc8e2c29c2a2142a93a1,2018-07-08 09:34:45,SP,SP,0.3627743092811332,product / basket complexity; handoff / delivery promise risk; category track-record risk
+430f5ce743fcb253ce569ccad8590f05,2018-07-31 13:59:58,RJ,SP,0.3625418963592784,product / basket complexity; order value / freight risk; seller track-record risk
+46d041b384bbdb77141815dd111b0e43,2018-08-11 21:20:06,SP,SP,0.3624186341829405,product / basket complexity; handoff / delivery promise risk; category track-record risk
+e434f79ea884de16e5a8bf32afee5333,2018-08-02 12:06:40,RJ,PR,0.3622361828964076,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+7b8ad11294a3f23e9695000ab5f07a42,2018-07-31 12:17:09,SP,SP,0.36191369938204143,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+2cad1cf90acc3870d982eafa58b9a657,2018-08-02 12:06:05,SP,PR,0.36162092834097664,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+ef759931a1e239c554b2d2a25957e7cd,2018-08-20 17:34:52,RJ,SP,0.3615168400987111,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+2e514f06a55a990840cf3f7131b45f55,2018-07-20 12:16:53,SP,SP,0.36134649011398795,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+66cce1a5edcf6eaaa50e28b6914de70a,2018-08-01 16:43:40,RJ,SP,0.3607668171177357,product / basket complexity; order value / freight risk; seller track-record risk
+8ce09fabe89667119f813bcaa531e675,2018-08-04 17:54:31,SP,SP,0.3604739648421246,handoff / delivery promise risk; seller track-record risk; category track-record risk
+ed4bfa707956ab491448f8f28a48f6c6,2018-08-06 12:57:57,RJ,SP,0.3601653677718479,product / basket complexity; seller track-record risk; order value / freight risk
+dacb857612778747b96d5afcad0adbd4,2018-07-13 18:45:16,PR,SP,0.36016280736557216,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+aa0b425987bdeae4a29c616a2bc3a08a,2018-07-22 22:00:26,SP,SP,0.3594463953588185,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+4f604161cac7949dd11d13af2a4944b6,2018-07-20 11:10:41,BA,SP,0.35931022863293033,product / basket complexity; order value / freight risk; seller track-record risk
+fae8533726bd31cbcb92d9bdcaf5e92f,2018-08-01 17:38:11,MG,PR,0.3591205309982274,handoff / delivery promise risk; seller track-record risk; category track-record risk
+21fbb7ffe47d9cc3a504f6ac4ee24c9a,2018-08-23 11:59:25,RJ,SP,0.3589168611919203,product / basket complexity; seller track-record risk; order value / freight risk
+493ba21a937e956c5e0e4e26c9f1b7f9,2018-07-15 09:56:32,SP,SP,0.3585343299688763,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+da53168e1e12e3408d193c03604f260d,2018-07-05 10:00:59,RJ,PR,0.3584815155832819,product / basket complexity; seller track-record risk; category track-record risk
+f4471dae8c482f51aa1826cd9f5d4433,2018-07-05 18:40:47,SP,SP,0.3581551332614971,product / basket complexity; handoff / delivery promise risk; category track-record risk
+a8cc5640bb6e6bf0280850917666c4d5,2018-08-17 15:22:25,SC,RJ,0.3578134284209839,product / basket complexity; seller track-record risk; category track-record risk
+7cdb98b018309556c5994e4a200213c0,2018-08-05 16:07:17,RJ,SP,0.3559679746277856,product / basket complexity; seller track-record risk; order value / freight risk
+d515df6c2f06c05d78204a42d3a0bd11,2018-08-19 19:09:43,RJ,SP,0.35578122737037116,product / basket complexity; order value / freight risk; seller track-record risk
+44dd8e3e7650c35a1973a42498626ded,2018-07-13 15:08:43,SP,SP,0.3553623302006296,product / basket complexity; category track-record risk; handoff / delivery promise risk
+537690295b4d85739ba8cbf72ece30b6,2018-08-05 10:14:59,SP,SP,0.35459824211865787,handoff / delivery promise risk; seller track-record risk; category track-record risk
+d4cb2f7d8e7f756a94c511fd1280e026,2018-08-22 21:48:00,SP,SC,0.35371934540269817,product / basket complexity; order value / freight risk; long-distance delivery risk
+84d60e19027c1623f295fe43b74ca280,2018-07-29 11:51:43,RJ,MG,0.35320708358487646,handoff / delivery promise risk; category track-record risk; seller track-record risk
+9e10abcef882f49dc69054c4b9f001b7,2018-08-03 20:24:45,SP,SP,0.35237956687827154,handoff / delivery promise risk; order value / freight risk; seller track-record risk
+d1c8a4c31e8c7baecf7db50c988e5527,2018-07-23 09:31:16,GO,SC,0.35184020514667896,handoff / delivery promise risk; order value / freight risk; long-distance delivery risk
+53e2d02e35bbcf2deb23911e2d791dbb,2018-08-07 09:17:48,ES,SP,0.35028972480949,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+d0474ae1c2cc3b4e0ac853b073fec9e9,2018-07-12 19:04:23,RJ,SP,0.34994641657803294,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+81342024c8d07f66fa2852d3c8d9b890,2018-08-07 18:58:53,SP,SP,0.3494522950368799,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+819c95d80987748e1ce29b9b637cc920,2018-07-20 16:53:27,RJ,SP,0.3491530355538858,product / basket complexity; order value / freight risk; seller track-record risk
+55c3e087340bf45947dd9df30b3808d3,2018-08-20 23:20:11,RJ,SP,0.3487316966550482,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+8081c44895cefcfebc13faec5c9ed8bf,2018-07-10 22:18:36,MS,SP,0.34811132034684594,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+753841f6cd9bed8cbb16bae45c571e8e,2018-07-04 20:17:49,RJ,SP,0.34773508315194274,product / basket complexity; order value / freight risk; category track-record risk
+e6994fc60ac218b01bd168895ef8399e,2018-08-13 13:15:03,SP,SP,0.34739200959728,handoff / delivery promise risk; seller track-record risk; category track-record risk
+dacc7a1d6edca844b4f0f6cf124b4f24,2018-08-11 16:02:08,SC,SP,0.3473633678087529,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+2e203d616e144d45fd13e47098343406,2018-08-06 20:07:38,SP,SP,0.3470731815886148,handoff / delivery promise risk; order value / freight risk; category track-record risk
+e79714832b01797085c10409669150d5,2018-08-02 12:06:56,SP,SP,0.3464452183107138,handoff / delivery promise risk; order value / freight risk; product / basket complexity
+a87b1e2e028f2dd7b4f77afd0f1da268,2018-08-21 00:23:59,MG,SP,0.3462960030886998,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+b44e4934b1e5508c95af97751e9cfd6e,2018-08-23 00:20:45,SP,SP,0.3459776950886046,product / basket complexity; category track-record risk; seller track-record risk
+711526597d2e1f1b5ee9bf5c4af2c4cf,2018-07-27 17:36:19,MG,SP,0.345344953015688,product / basket complexity; order value / freight risk; seller track-record risk
+1f55d59fd95c97d28af581c3c7b4f267,2018-08-01 23:23:42,SP,SP,0.3443395049025927,handoff / delivery promise risk; order value / freight risk; category track-record risk
+2446a642fca6873ebfd22332c6657732,2018-08-02 12:07:08,SP,SP,0.3442435893384878,product / basket complexity; seller track-record risk; category track-record risk
+b44c0f4d0cdb8ae7289069d703ca6db8,2018-08-02 12:04:50,RS,SP,0.34408387579195965,product / basket complexity; order value / freight risk; seller track-record risk
+fbacb2717f779ec85691cc7fcec4f1d7,2018-08-07 22:09:21,MG,RJ,0.3433948001907117,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+cc9760bf7b5d5b74c4d1eb1ab6405b50,2018-07-17 13:32:49,SP,SP,0.34271784676565853,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+778c123689474f1e0abaae724ebe2136,2018-07-20 16:07:28,BA,PR,0.3425858220341678,product / basket complexity; order value / freight risk; long-distance delivery risk
+96ba3ccac6dfb6a6610178fd893a3f3f,2018-08-09 14:40:55,SP,SP,0.3425559224493534,handoff / delivery promise risk; seller track-record risk; product / basket complexity
+a95233889b00b4d7f6e1469e15bbeb1d,2018-07-20 17:04:49,PE,SP,0.3425020756758547,product / basket complexity; order value / freight risk; seller track-record risk
+1ad631eef80afb67f53ed0b9083846e7,2018-07-17 10:06:32,SC,SP,0.3423533168748521,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+4e8eac5f839b87a8cdbd9847f4fe442d,2018-08-03 17:56:37,SP,SP,0.34216153948144723,handoff / delivery promise risk; order value / freight risk; seller track-record risk
+2fc7fe2e06e84beba127768beb2f705e,2018-08-03 00:36:26,SP,SP,0.3420976570905954,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+8556edd77123b5e04862b951269eabed,2018-08-03 17:21:48,SP,SP,0.34132216995022513,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+256fd7aba8c450a1a97a52b1c9d422bc,2018-08-14 16:39:01,GO,SP,0.3410689069874386,product / basket complexity; seller track-record risk; category track-record risk
+cc2a815c27056f7c5770b6a14d422863,2018-07-02 20:39:32,DF,SP,0.3410378209955191,handoff / delivery promise risk; seller track-record risk; category track-record risk
+2da8bce3611134cc95cb5d33bf1e2d3b,2018-07-06 11:16:55,CE,SP,0.34099520771582864,product / basket complexity; long-distance delivery risk; order value / freight risk
+4e4aa299535ead6fe63a779d539c493d,2018-07-17 18:38:40,GO,MA,0.340491400974131,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+95149a14172495a0aef0ac5c59f95d1c,2018-08-15 18:28:37,SP,SP,0.33988484831068005,handoff / delivery promise risk; seller track-record risk; category track-record risk
+40d9b709b3b6a77fcd309165705f58d7,2018-07-29 15:38:03,RJ,PR,0.3396898329833252,handoff / delivery promise risk; seller track-record risk; category track-record risk
+5e703e05bcb502963f75e2a2a2eb7b73,2018-07-01 14:01:27,PB,SP,0.33913818207639795,product / basket complexity; order value / freight risk; long-distance delivery risk
+f5318f2526a744099fb9be520a5708fa,2018-07-15 21:14:49,SP,SP,0.338794574544079,handoff / delivery promise risk; category track-record risk; order value / freight risk
+56703a55199f4784c80fe5e5de71c532,2018-07-15 00:25:32,SP,SP,0.3366327350781489,product / basket complexity; handoff / delivery promise risk; category track-record risk
+22a409aa094a6210e26006088a346124,2018-07-24 01:34:25,GO,SP,0.33644140519027216,product / basket complexity; order value / freight risk; seller track-record risk
+2a898874fbdeadc5df2ea8a0b01b85cb,2018-08-15 15:46:35,RJ,SP,0.3362455834468174,product / basket complexity; handoff / delivery promise risk; payment-method risk
+a60e21c021af3e8b42bf68b8683800ac,2018-07-18 13:07:19,SC,MA,0.33575933605235525,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+a7ff25f0e4f6914216004204460f5797,2018-08-13 20:22:33,SP,MG,0.3347450554355249,handoff / delivery promise risk; seller track-record risk; category track-record risk
+30bef37a80d21494c619aea50b367550,2018-08-07 15:22:32,SC,SC,0.3346820468195441,handoff / delivery promise risk; category track-record risk; order value / freight risk
+6ac81ce742f436d1d7de699cb7355a81,2018-07-25 13:25:22,RJ,SP,0.33380793928049063,product / basket complexity; order value / freight risk; seller track-record risk
+9e4243313a1d4a651bb23ffa6edd96e2,2018-07-30 22:44:52,SP,SP,0.3336896526936518,handoff / delivery promise risk; seller track-record risk; category track-record risk
+5871d8a9d410f4348b27394d4085874f,2018-07-11 13:58:44,MG,SP,0.3332044722796247,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+5f584984f781a737f7a40522e1e8db52,2018-08-07 19:58:03,SP,SP,0.3331235546042851,product / basket complexity; seller track-record risk; category track-record risk
+6616fa4c89b8bf2a7e17271cdc542fca,2018-08-17 20:47:06,ES,RS,0.33258342071509733,product / basket complexity; handoff / delivery promise risk; long-distance delivery risk
+4dd4fdc64737dc3f4472ceda049cb1ba,2018-08-17 13:57:35,RJ,RS,0.332448789103519,product / basket complexity; category track-record risk; long-distance delivery risk
+2464a4f54814d3de636541955feeb947,2018-08-01 20:30:22,SP,SP,0.3323928326337501,handoff / delivery promise risk; order value / freight risk; category track-record risk
+c26ab0b30d07987314b27778194f020b,2018-07-28 13:15:31,ES,SP,0.3323899351424488,product / basket complexity; order value / freight risk; seller track-record risk
+a080255684c6772ec5153e1b847c9240,2018-08-12 22:57:03,RS,SC,0.33226150698804013,product / basket complexity; seller track-record risk; long-distance delivery risk
+a39b459bad02888e07ddf9d3321673c7,2018-07-09 12:16:32,SP,PR,0.33172477287380797,product / basket complexity; seller track-record risk; category track-record risk
+6a0633b045fa76bef36ac14dd4a3f165,2018-07-03 18:09:59,BA,SP,0.33145948836656136,product / basket complexity; long-distance delivery risk; order value / freight risk
+65272dc3f6aee70b17f962df52f16f73,2018-08-01 22:41:50,SP,PR,0.3314179619867172,handoff / delivery promise risk; seller track-record risk; category track-record risk
+c7387d86e09f2823f6062d8c2378ce02,2018-08-08 15:01:55,PE,SP,0.331295239501429,product / basket complexity; order value / freight risk; long-distance delivery risk
+d2c57d721916c36343711be4e205ad5e,2018-08-21 17:37:49,SP,SP,0.33120686809605526,handoff / delivery promise risk; seller track-record risk; product / basket complexity
+36d80fa68ee43c6ee60518067a8d667b,2018-07-18 13:25:22,SP,MA,0.33068072482581723,handoff / delivery promise risk; long-distance delivery risk; order value / freight risk
+ed273cdf7e2668c17d6cb199ad52d7c4,2018-07-10 11:36:10,PR,SP,0.33068045862919554,product / basket complexity; order value / freight risk; seller track-record risk
+9b21580d9a140962daa66b493fa50248,2018-08-04 13:46:34,RJ,SP,0.33062041668587,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+4f88a7f264d48920c4f0762d160212ca,2018-08-02 12:07:00,RJ,RJ,0.33011140294737973,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+9f2c42d6f142a06f2c575576ad53adb3,2018-08-11 16:35:17,PR,PR,0.3300108958067886,handoff / delivery promise risk; product / basket complexity; category track-record risk
+d74d2985a4c187334dc59722076a2e5f,2018-08-09 20:36:13,PA,SP,0.329742772409755,product / basket complexity; long-distance delivery risk; order value / freight risk
+dabf944b5665812f782733657428f68b,2018-07-18 08:03:09,RJ,SP,0.3297361359362414,product / basket complexity; order value / freight risk; seller track-record risk
+514a25ad1f240dd40ca9f02d1cb60a91,2018-08-06 21:56:11,SC,MA,0.3296678298535837,product / basket complexity; long-distance delivery risk; seller track-record risk
+8cbd694bc3280b8cbc9120d759a30b0d,2018-07-15 10:46:26,ES,SP,0.3294117761605049,handoff / delivery promise risk; category track-record risk; long-distance delivery risk
+e1cef1d9d9cdf18eb3f06c9ac41e3b50,2018-07-31 16:25:56,ES,PR,0.3293686653316571,handoff / delivery promise risk; seller track-record risk; category track-record risk
+6ee0abe7b83e046f6ca20743a8c6e7c7,2018-08-06 00:58:48,SP,RJ,0.32848941660751185,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+7f579e203c931f3e8410103359c6d523,2018-08-02 18:09:27,SP,SP,0.32774995335199314,handoff / delivery promise risk; order value / freight risk; category track-record risk
+ed869c0c89353ad056e1e883e4be35bd,2018-08-04 23:03:44,RS,SP,0.32756866920909383,product / basket complexity; seller track-record risk; order value / freight risk
+b15a1712256b8250cd6f952c85e4c65a,2018-08-20 09:01:07,RJ,RJ,0.32682727103062426,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+2f5521a15f1ab0eb646209fa271d9de4,2018-08-13 10:19:13,PR,SP,0.3264131503459654,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+10d68bf5b2b29ed413ad7b19c7c601de,2018-08-20 16:50:24,RJ,RJ,0.3261569585411834,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+bfc9f97fc7ddacf8a3c33c4b2bd15a93,2018-08-07 16:33:58,MG,SP,0.3261375482673726,product / basket complexity; order value / freight risk; seller track-record risk
+60530b8ca3078f2c9039b970e94e7c61,2018-07-30 11:12:54,SP,PR,0.3259619807948313,handoff / delivery promise risk; seller track-record risk; category track-record risk
+a103620b14c5f66c4a0f9c14a1327377,2018-07-24 16:30:02,SP,SP,0.3258541986280401,handoff / delivery promise risk; order value / freight risk; seller track-record risk
+5a42abf0eee65d3a1e361aa49561a521,2018-08-13 13:03:17,SP,SP,0.3254532931478445,product / basket complexity; order value / freight risk; seller track-record risk
+bfcc7c29cd728eb97a04e55544a978bd,2018-08-16 09:27:20,PE,SP,0.3248525270580385,handoff / delivery promise risk; long-distance delivery risk; order value / freight risk
+300542e713279c59c9741f77d049f567,2018-08-04 09:39:55,SP,SP,0.3235603813073192,handoff / delivery promise risk; category track-record risk; order value / freight risk
+2e9d2850537d9e6975149a266b9ecf69,2018-07-30 21:07:34,SP,SP,0.3235527646419039,handoff / delivery promise risk; product / basket complexity; order value / freight risk
+866c3d690461371bdd01676cccd0dfa3,2018-07-28 17:52:17,RS,SP,0.3227035933197388,product / basket complexity; seller track-record risk; order value / freight risk
+11fb3a6f90bfba7e4b6717e62fe6cbc1,2018-08-07 22:36:06,SP,SP,0.3225661483375615,handoff / delivery promise risk; order value / freight risk; category track-record risk
+18709eaac22345a27e1027cd4900b554,2018-08-09 16:49:26,RJ,RJ,0.3224869318424128,handoff / delivery promise risk; order value / freight risk; product / basket complexity
+20fa8f2f9e0e99e74b93545b01a6f24a,2018-07-30 14:54:31,CE,SP,0.32246081730785053,product / basket complexity; order value / freight risk; long-distance delivery risk
+2e0900f25a11a9802bc76d2613b1144c,2018-07-24 13:30:27,TO,SP,0.3219964076728725,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+874a7690bc049bd4ce210d195bdfff7b,2018-08-02 12:06:47,SP,SP,0.3219299712335642,handoff / delivery promise risk; category track-record risk; order value / freight risk
+533e69dda70ac7671a0bda8bb5fc08db,2018-08-04 14:55:00,BA,SP,0.3218687984999789,handoff / delivery promise risk; order value / freight risk; category track-record risk
+95329bc75845ea5b52290fba0e025e0f,2018-08-05 23:06:41,SP,SP,0.3214895010405089,product / basket complexity; seller track-record risk; category track-record risk
+8c942d6d0cb6781e00df7a3fafc8ef86,2018-07-31 17:11:15,RJ,SP,0.3213389885593526,product / basket complexity; seller track-record risk; order value / freight risk
+b523ce1995c46d7ad970da56cbf867e1,2018-07-20 09:26:27,RS,SP,0.3212286064016681,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+50464b5c4c37ca488dd7857dbaff4840,2018-08-05 23:04:52,ES,SP,0.32119822398866854,product / basket complexity; order value / freight risk; seller track-record risk
+cb1f3a44e8b8527e16913306a4d3de2f,2018-08-07 09:03:02,RS,BA,0.3207381116635917,product / basket complexity; long-distance delivery risk; order value / freight risk
+3c3e5bec9a05202ab008c05c55f951fc,2018-08-04 15:03:25,MG,SP,0.3206019254818584,product / basket complexity; order value / freight risk; seller track-record risk
+8c8bf66336e3c7cdc9f751fbfac37a85,2018-08-21 13:33:58,SP,SP,0.32051051999067454,handoff / delivery promise risk; order value / freight risk; category track-record risk
+bcd881f346c66116b4cf838352ea8eaa,2018-07-21 11:39:34,RJ,SP,0.31964360149298254,product / basket complexity; order value / freight risk; category track-record risk
+b4bf86ceca8b763240fd6be6d5e313ba,2018-07-20 15:59:05,PR,SP,0.31880124370615914,product / basket complexity; seller track-record risk; order value / freight risk
+ea2568234ef491f3b42d83e8bc5f06e7,2018-07-03 18:19:32,BA,SP,0.3185684148381673,handoff / delivery promise risk; long-distance delivery risk; category track-record risk
+01cce1175ac3c4a450e3a0f856d02734,2018-07-19 20:32:57,SP,SP,0.31843435718919827,product / basket complexity; seller track-record risk; category track-record risk
+adb8036d8a5a923d533101a9a7397523,2018-08-15 22:30:47,SP,SP,0.3179435525839582,handoff / delivery promise risk; seller track-record risk; category track-record risk
+bd982aee32cd290fc0ecf05ec77c326b,2018-08-04 19:00:40,SP,SP,0.3174224243624222,handoff / delivery promise risk; order value / freight risk; category track-record risk
+afd30106ec5fcdc91936dc9e8bdac2bb,2018-08-16 10:02:10,BA,SP,0.3174196986134074,product / basket complexity; order value / freight risk; long-distance delivery risk
+db747e7d69671f32e8e4ea7fdc1266ed,2018-07-19 12:44:53,BA,SP,0.3170935577016097,seller track-record risk; handoff / delivery promise risk; category track-record risk
+155ef0fdd47407446e4fd43d34997bbb,2018-07-19 15:35:29,SP,SP,0.31691856549557545,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+884b42885f11cac2abce880659eb1b0b,2018-08-14 09:15:11,SP,SP,0.3168988512557673,handoff / delivery promise risk; seller track-record risk; category track-record risk
+257a0d5445d4ae131816384009fbb954,2018-07-25 10:24:29,RS,PR,0.31676385469863705,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+0cc893e70885ba7fc151e85141326ef5,2018-08-14 11:40:48,SP,SP,0.31623957207352454,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+dbe2e048ec0057accc15716fa929c405,2018-08-19 11:08:19,RJ,SP,0.3162352970106025,product / basket complexity; order value / freight risk; category track-record risk
+45f323ee344dfe76bcd78bc41c962c91,2018-08-02 12:04:55,PE,SP,0.31619579928117497,product / basket complexity; long-distance delivery risk; order value / freight risk
+7cb6e4af5a197f3923e8c8358ca71f0a,2018-07-12 19:20:21,SP,SP,0.3159634212951095,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+ab348b95012031ab6a86594395ad47e1,2018-08-10 19:53:00,SP,SP,0.31589776559917543,handoff / delivery promise risk; category track-record risk; order value / freight risk
+4d4c65feca16bc9de359cb5d4feef10d,2018-07-06 22:01:35,BA,SP,0.31570752994203666,product / basket complexity; handoff / delivery promise risk; long-distance delivery risk
+24299ef78eb1c1ba5e7288e3b1a90c85,2018-08-11 07:42:15,MG,SP,0.3155593589983802,product / basket complexity; seller track-record risk; order value / freight risk
+8b75c1d5d99e30c53acf26bdfd1f29bc,2018-08-06 20:29:43,SP,SP,0.3152250687610411,handoff / delivery promise risk; seller track-record risk; category track-record risk
+28a1ff56441c9df5d5bfaead83cd76fd,2018-07-10 21:49:39,SP,MA,0.31521478135005887,product / basket complexity; handoff / delivery promise risk; long-distance delivery risk
+00b6e66f005a657a6b13eedcacdf9342,2018-08-11 10:47:05,RJ,BA,0.3146838432418383,product / basket complexity; order value / freight risk; category track-record risk
+fb73306df41afb7ed9222b25f9ebdfb4,2018-08-07 21:22:51,MG,PR,0.3141874744808109,handoff / delivery promise risk; category track-record risk; product / basket complexity
+9550c6dde457784adf6688cea59cd6b8,2018-08-01 12:52:42,SP,SP,0.3134463002940605,handoff / delivery promise risk; seller track-record risk; category track-record risk
+c8328720517a06417715c52c03e52c89,2018-07-11 10:36:06,RN,SP,0.31321328978766133,product / basket complexity; seller track-record risk; order value / freight risk
+febdd4292b7bc064ae8e10f572aa2ce9,2018-08-02 12:06:10,BA,SP,0.31301550899921404,product / basket complexity; order value / freight risk; long-distance delivery risk
+27f9cf9d843287e332dcd815a0feda60,2018-07-29 13:18:42,RJ,SP,0.3129504955278201,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+ea74d355b16bf9de1c103719173cb804,2018-08-06 10:10:27,SP,SP,0.31248627279284913,handoff / delivery promise risk; product / basket complexity; seller track-record risk
+fa920bdfa971269c86fa5e1839ff9db4,2018-08-07 15:57:14,RS,SP,0.31186242967644606,product / basket complexity; seller track-record risk; order value / freight risk
+3e073b27114fe955e184db124d34a566,2018-08-07 16:35:35,RS,BA,0.31158377632366346,product / basket complexity; long-distance delivery risk; category track-record risk
+8adf9a2797120df1f8a03e9407313a9d,2018-08-10 17:57:26,RJ,SP,0.311542110095917,handoff / delivery promise risk; seller track-record risk; category track-record risk
+28c0015f84c9d8b6a4e58b0414ab80ab,2018-07-11 18:01:04,SP,SP,0.3114854666553408,handoff / delivery promise risk; seller track-record risk; category track-record risk
+a4396e55c140360b67296ee34f56752c,2018-07-23 14:13:23,RS,SP,0.3114393057980369,product / basket complexity; seller track-record risk; order value / freight risk
+41ef253cac66335bdb0b51fb4853f04e,2018-08-13 17:32:53,RJ,SP,0.31139460488879617,product / basket complexity; category track-record risk; order value / freight risk
+2ca369587935712412b0097c8b319bb6,2018-07-15 18:28:55,RJ,SP,0.3113878925264146,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+31f6ff8aa036e65dcd7e8c1e224a5b91,2018-08-16 19:56:46,PR,SP,0.31118785646540137,product / basket complexity; seller track-record risk; order value / freight risk
+b198d16d5ba1cbacf02b4d54728314fa,2018-07-28 14:57:50,MG,GO,0.311166972790508,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+4f1a1c6f6fbca0d084e77e3f74b37cf6,2018-07-31 14:08:48,RJ,PR,0.3110019037466134,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+3f975d6254e730e9262bc7be0b71a589,2018-07-31 23:34:53,SP,SP,0.31093204604124075,handoff / delivery promise risk; seller track-record risk; category track-record risk
+6653526158fc41798fd489f9b3c86b56,2018-07-27 09:14:53,SP,SP,0.3108212908866011,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+fdd5e4264311601ee93658c23d3a79be,2018-07-18 20:02:29,SP,PR,0.3106800754591626,product / basket complexity; seller track-record risk; category track-record risk
+88d1a4053f36cee7a806c473458c6c11,2018-08-17 16:27:14,MG,SP,0.309792516686476,product / basket complexity; order value / freight risk; seller track-record risk
+70a4b21bf18001a99d94bf894697b8c1,2018-08-03 12:30:36,RO,MG,0.3097341620375179,product / basket complexity; long-distance delivery risk; category track-record risk
+b89c3bccb55bf39d693030905c3a2326,2018-08-07 19:29:06,PR,PR,0.3094926811076618,handoff / delivery promise risk; category track-record risk; product / basket complexity
+54ac8f134227883330db3517a19b4b5c,2018-07-19 07:38:53,RJ,SP,0.30945457218319117,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+d543201a9b42a1402ff97e65b439a48b,2018-08-21 10:00:25,SC,SP,0.30933050438868753,product / basket complexity; order value / freight risk; category track-record risk
+9c3225a3efe9fb83ea06492acb99d42c,2018-08-07 15:38:33,SP,PR,0.30917699454547715,handoff / delivery promise risk; category track-record risk; product / basket complexity
+a1e313e06320d5c725c2ba02d0cf5be2,2018-08-14 20:02:28,SP,PE,0.30887776558589425,handoff / delivery promise risk; order value / freight risk; long-distance delivery risk
+7b78cc6982a3e84c736e54249ed7612c,2018-07-27 16:50:27,RJ,SP,0.308677136797841,product / basket complexity; order value / freight risk; seller track-record risk
+38d5ef6462d5c0929ea356606f4e58bf,2018-07-17 17:09:10,RS,SP,0.3085646523638661,product / basket complexity; order value / freight risk; seller track-record risk
+7a485479dbdf94502e471dbd3329a4e4,2018-08-10 17:09:27,MG,SP,0.3085612915489303,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+6299bb8e855289b411394e216495f96f,2018-07-05 17:52:32,RJ,SP,0.30852799310894313,product / basket complexity; order value / freight risk; category track-record risk
+029b1d3a355dec12cfed60927f076a9d,2018-07-17 17:16:25,RJ,SP,0.30851507755586116,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+03720fdc92032ee4abd471d172006ab0,2018-08-05 21:34:54,MG,SP,0.30848228190953664,handoff / delivery promise risk; order value / freight risk; long-distance delivery risk
+9a3682ac52b77c26f1d7a700b59ed9f7,2018-07-17 17:11:48,RJ,SP,0.3079292109657103,product / basket complexity; handoff / delivery promise risk; category track-record risk
+c6fa9f5af647f54d235728bb12eaf5f5,2018-07-27 22:11:39,RJ,RJ,0.3079273638334849,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+57be20dc5f786ed372add8e3f28be447,2018-07-26 13:13:19,AC,SP,0.30788518538946874,product / basket complexity; long-distance delivery risk; order value / freight risk
+3f744e5030fb02e02651eb31d5204878,2018-07-31 13:52:24,RS,SP,0.3078277824623071,product / basket complexity; order value / freight risk; long-distance delivery risk
+6fbb3d20bfc2d3afdc6478057599ea2c,2018-08-24 09:09:41,PR,SP,0.3078093387214777,product / basket complexity; order value / freight risk; category track-record risk
+0eef7e4ed65516867584806c217bd0f4,2018-07-07 13:21:57,SP,SP,0.30766745797303197,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+b899a41fdae17968d357d705b073a5ce,2018-07-27 13:06:00,RJ,PR,0.3072781363703028,product / basket complexity; handoff / delivery promise risk; category track-record risk
+9ac5d8f3cc22c272de0146a5cc273fe3,2018-07-17 19:14:37,MT,SP,0.30710656562215227,product / basket complexity; order value / freight risk; long-distance delivery risk
+81d183ca30a0f0ced737aed18b2ed9de,2018-08-02 21:47:53,CE,SP,0.3069233125971084,product / basket complexity; order value / freight risk; long-distance delivery risk
+52b1ffde0cd06a4b61dc1229bcf87827,2018-07-14 18:12:20,DF,SP,0.3068792643096826,product / basket complexity; seller track-record risk; handoff / delivery promise risk
+baa821bd1dbd5c6d31c9b1c68f760b8b,2018-08-24 13:23:32,SP,SP,0.3064696904195794,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+40a6bf502702fa0bfaee3ae436b554ed,2018-07-31 07:58:01,RJ,SP,0.306428262750451,product / basket complexity; order value / freight risk; category track-record risk
+4375cac0cfa2a87273ea83c661bdfcca,2018-07-31 11:43:33,SP,SP,0.30642244657149525,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+299e8d399d78b7abc915b3d059a6c712,2018-08-18 19:52:16,SC,SP,0.3062875115668146,product / basket complexity; order value / freight risk; category track-record risk
+b1873e7f1c0220c132db2642ecf2bf1b,2018-07-16 18:55:19,AM,SP,0.30615174388240446,product / basket complexity; long-distance delivery risk; seller track-record risk
+15e67a6eec264915cd81f8f57dbacd81,2018-08-07 14:05:50,RJ,SP,0.30609989466735116,product / basket complexity; category track-record risk; handoff / delivery promise risk
+309f6784abccce4e6e99672dca8ff4cd,2018-08-07 00:47:40,SP,SP,0.30550526939244393,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+35baa1b2a801b5181147ad7c02723d9d,2018-08-09 10:24:12,PR,RJ,0.3054411755664024,product / basket complexity; order value / freight risk; category track-record risk
+240143ab3914b9052e329d80e795b1c9,2018-08-04 12:27:53,BA,SP,0.3054210940531241,product / basket complexity; seller track-record risk; long-distance delivery risk
+9fe28378e5a0c6b3f55ed7be6edf9ff4,2018-07-16 09:08:18,RR,SP,0.3051502630612548,product / basket complexity; long-distance delivery risk; order value / freight risk
+d75779e6c1a84594d2f0721948133e6e,2018-08-20 19:26:55,RJ,SP,0.3043940052624103,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+9f2ff91a3b8c4c34b7847c9c68971cfd,2018-08-24 09:55:31,SP,SP,0.3038129796172578,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+f4f88d0fded20ff7a60fb80ccdd533d2,2018-08-04 22:18:12,DF,SP,0.303454491772072,handoff / delivery promise risk; seller track-record risk; category track-record risk
+a96d3bc5d1e3315554ccd38f27ff5ef3,2018-07-25 20:21:01,RJ,PE,0.3030435433978258,product / basket complexity; order value / freight risk; long-distance delivery risk
+f9d6e36d6c09ef9acae870b642100f11,2018-07-16 18:21:18,MG,MA,0.30296846830895463,handoff / delivery promise risk; long-distance delivery risk; order value / freight risk
+907424cd045f2dcb775507e367f9ab60,2018-08-07 16:08:48,SP,SP,0.3028150902961061,handoff / delivery promise risk; order value / freight risk; category track-record risk
+47c06c1588f9c9cb71462e6d39893f63,2018-07-26 12:00:43,SP,SP,0.3028121528192227,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+98886a41872c9df13b990863b330f710,2018-08-06 14:44:25,SP,SP,0.3022250361972524,handoff / delivery promise risk; seller track-record risk; category track-record risk
+c94edffab2f10ec24645c62b40881e88,2018-08-25 14:05:07,RJ,SP,0.3019514942311456,product / basket complexity; order value / freight risk; category track-record risk
+e608a62334dc69f423bb65e0a232e064,2018-07-18 19:32:41,RJ,SP,0.3016562069167424,product / basket complexity; order value / freight risk; category track-record risk
+c5a2f330a53172144cc43fba697c2e8f,2018-08-08 18:52:43,RS,SP,0.30163736858207235,product / basket complexity; seller track-record risk; order value / freight risk
+29f08eca9316db52a34130eeb52dffd0,2018-08-01 14:04:51,PA,MG,0.3015643980926904,handoff / delivery promise risk; order value / freight risk; long-distance delivery risk
+69840aae60642aee7093192b37961c08,2018-07-05 00:58:05,SP,SP,0.3015114404500868,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+49e84824ae503af008a7cc379ebab409,2018-07-28 14:54:19,RJ,BA,0.3014839923097846,product / basket complexity; order value / freight risk; seller track-record risk
+0cc7bb57999d251da473822051388086,2018-08-08 17:14:03,SP,SP,0.3002902055507437,handoff / delivery promise risk; category track-record risk; product / basket complexity
+2e902692c167fd257e783627a147da98,2018-07-26 14:26:52,RJ,SP,0.3001840397924845,product / basket complexity; seller track-record risk; order value / freight risk
+eb9e77ffb4019d5cd410157dfb294a12,2018-08-06 18:47:58,PR,SP,0.30013555205902137,product / basket complexity; order value / freight risk; seller track-record risk
+38dcf9bd2b8951b1407c82f1d70a8f7f,2018-08-05 17:42:51,PE,SP,0.2996945807637023,product / basket complexity; seller track-record risk; order value / freight risk
+d1f478a5468a4aed52abdbc2d98e0030,2018-07-23 06:40:33,PE,SC,0.2995722002962361,long-distance delivery risk; category track-record risk; order value / freight risk
+b2b8934746a9afa7b38c8c1f88268ecb,2018-08-02 12:06:07,MG,SP,0.29886771701760817,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+4a9e7a4311dfd6488a1501266a1cdf9f,2018-07-23 19:42:46,MG,SP,0.29842138887417635,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+7c92284adbec8033d160303d83065dbf,2018-07-17 16:55:18,RS,SP,0.29832853057540887,product / basket complexity; order value / freight risk; seller track-record risk
+cdf713b645faa55bba5c66e66aeef41e,2018-08-15 22:05:09,SP,SP,0.29823523296543586,handoff / delivery promise risk; seller track-record risk; category track-record risk
+c3a071b5ca0f9c693c5276d4dcf7fdcf,2018-08-22 18:32:39,RS,PR,0.297596077873222,product / basket complexity; order value / freight risk; category track-record risk
+5efadf4b12dd71ad2003ee3b7f2b24c3,2018-08-03 22:55:44,MG,SP,0.2974631262416956,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+1f6c0814bc17d77eaa0f31f053ec9ae2,2018-08-07 20:25:17,SP,SP,0.2974314796535165,handoff / delivery promise risk; product / basket complexity; category track-record risk
+8252bcfa635686ea7a735c795dea38ab,2018-08-08 18:54:03,SE,SP,0.29710684763513256,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+f3378188cb29f0cd9da2d838f2374f6b,2018-08-13 17:23:35,SP,SP,0.2970149075452218,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+40a9be4510459ae28841128e5938153f,2018-08-14 17:42:23,SP,PR,0.2968865459456182,handoff / delivery promise risk; seller track-record risk; product / basket complexity
+738d6dc61c6c4ddc88d8996cec5dadae,2018-07-28 13:11:22,MG,SP,0.2959747449141788,product / basket complexity; seller track-record risk; category track-record risk
+d1d889b705a1d015ae3040fe1cb24be7,2018-07-04 09:47:46,RS,SP,0.29590161237136436,product / basket complexity; seller track-record risk; order value / freight risk
+b04d1dd669ddb039cfc706d7bc859e70,2018-08-06 21:43:01,SP,SP,0.29580350720463416,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+d83e73ca49e7e9ec7ba0154139858fc8,2018-08-01 16:43:43,MS,SP,0.2956433349167768,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+00f6ac4816d12f49026b09f2aa77d15f,2018-08-06 17:17:40,PR,SP,0.2953402445629711,product / basket complexity; order value / freight risk; seller track-record risk
+614e6a3e3a3c1ef48fa89ab1e15da0fb,2018-07-02 21:51:28,RS,SP,0.2951468634133586,product / basket complexity; seller track-record risk; order value / freight risk
+9797fc9d23d5187db0924184bc5cca44,2018-08-23 12:30:52,SP,SP,0.29504573102200926,product / basket complexity; handoff / delivery promise risk; seller track-record risk
+e701302a71c93540976fdf3ce3a149bd,2018-08-01 21:35:51,RJ,SP,0.2944996123836102,product / basket complexity; order value / freight risk; seller track-record risk
+c0fc5c6702f93ec8646c5404b4147864,2018-08-20 12:14:50,RJ,SP,0.2939815600982606,product / basket complexity; category track-record risk; order value / freight risk
+c4a813b981516ec9f56994ad042d9fbd,2018-08-09 18:06:55,SP,SP,0.2939528751492313,handoff / delivery promise risk; seller track-record risk; product / basket complexity
+64a52e5a0f31a4ccfe2f4318f49aa33f,2018-07-07 22:14:45,PR,SP,0.29362271809602836,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+1fea99244761fe0359d759672fdbcf4a,2018-07-13 23:19:41,RS,SP,0.2935459925582712,handoff / delivery promise risk; category track-record risk; long-distance delivery risk
+d17f1a91c60b8fe9d060b2579f04fd0a,2018-08-05 17:52:49,SP,SP,0.2935187504225931,handoff / delivery promise risk; seller track-record risk; category track-record risk
+433a9459ece4c6083b2aa89b2480a1a8,2018-07-31 23:27:43,SP,SP,0.29318140189463443,handoff / delivery promise risk; seller track-record risk; category track-record risk
+3683eb727daa8e1c605aeabd87b02445,2018-08-05 22:22:50,SP,SP,0.29318140189463443,handoff / delivery promise risk; seller track-record risk; category track-record risk
+1166c0cee90e165a1b3cf275339be6cc,2018-07-21 19:29:35,PR,SP,0.2928809898041906,product / basket complexity; seller track-record risk; order value / freight risk
+c6094f6ab0c25eda761622ab09aa423d,2018-07-25 10:16:15,RJ,SP,0.2928683552645152,product / basket complexity; category track-record risk; order value / freight risk
+018bb1508d9156b81990407b91fb35a8,2018-08-15 21:27:41,SP,MG,0.2927600150669889,product / basket complexity; handoff / delivery promise risk; order value / freight risk
+719c1d51ad40a458c511ebcfcdd0ebda,2018-07-17 15:23:54,PR,SP,0.2927390504033031,product / basket complexity; order value / freight risk; category track-record risk
+6639b799469775ff2a696e1bc96b9f58,2018-07-10 23:46:28,SP,SP,0.29188321911977627,handoff / delivery promise risk; seller track-record risk; order value / freight risk
+e7d21c24070fcbf69b6bb15b10a8ba14,2018-07-31 13:03:44,ES,SP,0.2915485842823104,product / basket complexity; category track-record risk; handoff / delivery promise risk
+416e55ae80dadfd48f380ae3b1b1dc83,2018-07-20 16:21:19,SP,RJ,0.2915010178867936,product / basket complexity; order value / freight risk; category track-record risk
+9f18c993eae62038ac5401de4f757054,2018-07-16 19:11:39,RS,SP,0.2914068636757248,product / basket complexity; order value / freight risk; handoff / delivery promise risk
+0d17115bd61c612a87f11a25e904f8fc,2018-07-18 16:56:28,DF,SP,0.2912605155921703,handoff / delivery promise risk; seller track-record risk; category track-record risk
